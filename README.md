@@ -51,8 +51,8 @@ Paid tranining courses
 
 ## Vulnerable VMs
 
-* [Vulhub](https://github.com/vulhub/vulhub) ⭐ 21,113 | 🐛 50 | 🌐 Dockerfile | 📅 2026-07-22
-* [Metasploitable3](https://github.com/rapid7/metasploitable3) ⭐ 5,665 | 🐛 74 | 🌐 HTML | 📅 2025-02-13 - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
+* [Vulhub](https://github.com/vulhub/vulhub) ⭐ 21,114 | 🐛 50 | 🌐 Dockerfile | 📅 2026-07-22
+* [Metasploitable3](https://github.com/rapid7/metasploitable3) ⭐ 5,666 | 🐛 74 | 🌐 HTML | 📅 2025-02-13 - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
 * [Exploit Exercises](https://exploit-exercises.lains.space/)
 * [Hackmyvm.eu](https://hackmyvm.eu/)
 
@@ -94,9 +94,9 @@ Paid tranining courses
 
 ## OWASP Top 10
 
-* [Owasp Juice shop](https://github.com/juice-shop/juice-shop) ⭐ 13,661 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-10 - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
+* [Owasp Juice shop](https://github.com/juice-shop/juice-shop) ⭐ 13,664 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-10 - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 * [DVWA](https://github.com/ethicalhack3r/DVWA) ⭐ 13,491 | 🐛 7 | 🌐 PHP | 📅 2026-08-07 - Damn Vulnerable Web Application (DVWA)
-* [WebGoat](https://github.com/WebGoat/WebGoat) ⭐ 9,277 | 🐛 35 | 🌐 JavaScript | 📅 2026-08-10 - WebGoat is a deliberately insecure application by OWASP for training purpose
+* [WebGoat](https://github.com/WebGoat/WebGoat) ⭐ 9,277 | 🐛 36 | 🌐 JavaScript | 📅 2026-08-10 - WebGoat is a deliberately insecure application by OWASP for training purpose
 * [Xtreme Vulnerable Web Application](https://github.com/s4n7h0/xvwa) ⚠️ Archived - XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.
 * [crApi](https://github.com/OWASP/crAPI) ⭐ 1,555 | 🐛 31 | 🌐 Java | 📅 2026-05-14 - completely ridiculous API: crAPI will help you to understand the ten most critical API security risks. crAPI is vulnerable by design, but you'll be able to safely run it to educate/train yourself.
 * [OWASP Mutillidae II](https://github.com/webpwnized/mutillidae) ⭐ 1,509 | 🐛 1 | 🌐 PHP | 📅 2026-06-22 - OWASP Mutillidae II is a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiast.
@@ -163,7 +163,7 @@ Paid tranining courses
 
 ## Uncategorized
 
-* [Vulhub](https://github.com/vulhub/vulhub) ⭐ 21,113 | 🐛 50 | 🌐 Dockerfile | 📅 2026-07-22 - Vulhub is an open-source collection of pre-built vulnerable docker environments.
+* [Vulhub](https://github.com/vulhub/vulhub) ⭐ 21,114 | 🐛 50 | 🌐 Dockerfile | 📅 2026-07-22 - Vulhub is an open-source collection of pre-built vulnerable docker environments.
 * [CI/CD Goat](https://github.com/cider-security-research/cicd-goat) ⭐ 2,284 | 🐛 0 | 🌐 Python | 📅 2024-07-14 - Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, catch the flags.
 * [Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) ⭐ 1,703 | 🐛 3 | 🌐 JavaScript | 📅 2025-05-24 - Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.
 * [Vulnserver](https://github.com/stephenbradshaw/vulnserver) ⭐ 1,129 | 🐛 1 | 🌐 C | 📅 2020-10-09 - Vulnerable server used for learning software exploitation
