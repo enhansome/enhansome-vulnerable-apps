@@ -1,0 +1,1157 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vulhub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-07-22T18:03:31Z",
+            "owner": "vulhub",
+            "repo": "vulhub",
+            "stars": 21113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metasploitable3",
+          "description": "Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-02-13T14:49:38Z",
+            "owner": "rapid7",
+            "repo": "metasploitable3",
+            "stars": 5665
+          }
+        }
+      ],
+      "title": "Vulnerable VMs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kubernetes Goat",
+          "description": "Kubernetes Goat is \"Vulnerable by Design\" Kubernetes Cluster. Designed to be an intentionally vulnerable cluster environment to learn and practice Kubernetes security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-16T22:11:11Z",
+            "owner": "madhuakula",
+            "repo": "kubernetes-goat",
+            "stars": 5744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudGoat",
+          "description": "CloudGoat is Rhino Security Labs' \"Vulnerable by Design\" AWS deployment tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-28T13:43:43Z",
+            "owner": "RhinoSecurityLabs",
+            "repo": "cloudgoat",
+            "stars": 3692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWSGoat",
+          "description": "A Damn Vulnerable AWS Infrastructure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-05-20T09:25:36Z",
+            "owner": "ine-labs",
+            "repo": "AWSGoat",
+            "stars": 2041
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TerraGoat - Vulnerable Terraform Infra",
+          "description": "TerraGoat is Bridgecrew's \"Vulnerable by Design\" Terraform repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2025-07-13T12:11:17Z",
+            "owner": "bridgecrewio",
+            "repo": "terragoat",
+            "stars": 1304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AzureGoat",
+          "description": "A Damn Vulnerable Azure Infrastructure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-30T06:37:46Z",
+            "owner": "ine-labs",
+            "repo": "AzureGoat",
+            "stars": 958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sadcloud",
+          "description": "A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2023-10-14T19:09:38Z",
+            "owner": "nccgroup",
+            "repo": "sadcloud",
+            "stars": 785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IAM Vulnerable",
+          "description": "Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-03-12T15:38:01Z",
+            "owner": "BishopFox",
+            "repo": "iam-vulnerable",
+            "stars": 585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CNAPPgoat",
+          "description": "CNAPPgoat is a multi-cloud, vulnerable-by-design environment deployment tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-09-04T17:12:55Z",
+            "owner": "tenable",
+            "repo": "cnappgoat",
+            "stars": 296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caponeme - Capital One Breach",
+          "description": "Repository demonstrating the Capital One breach on your AWS account",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-08T12:16:30Z",
+            "owner": "avishayil",
+            "repo": "caponeme",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cfngoat - Vulnerable Cloudformation Template",
+          "description": "Cfngoat is Bridgecrew's \"Vulnerable by Design\" Cloudformation repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-05T22:09:01Z",
+            "owner": "bridgecrewio",
+            "repo": "cfngoat",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unguard",
+          "description": "An insecure cloud-native microservices demo application for Kubernetes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-28T09:01:57Z",
+            "owner": "dynatrace-oss",
+            "repo": "unguard",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CdkGoat - Vulnerable AWS CDK Infra",
+          "description": "CdkGoat is Bridgecrew's \"Vulnerable by Design\" AWS CDK repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-09T01:14:28Z",
+            "owner": "bridgecrewio",
+            "repo": "cdkgoat",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WrongSecrets",
+          "description": "WrongSecrets is \"Vulnerable by Design\" to show how to not handle secrets in Docker, Kubernetes and in the cloud (AWS/GCP/Azure).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-18T04:13:48Z",
+            "owner": "commjoen",
+            "repo": "wrongsecrets",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vulnerable Cloud Lab",
+          "description": "Intentionally vulnerable GCP and AWS infrastructure deployed with Terraform for authorized cloud security training.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-18T03:57:31Z",
+            "owner": "anpa1200",
+            "repo": "vulnerable-cloud-lab",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Cloud Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "InsecureBankv2",
+          "description": "Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-04-17T12:40:37Z",
+            "owner": "dineshshetty",
+            "repo": "Android-InsecureBankv2",
+            "stars": 1465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DIVA Android",
+          "description": "Damn Insecure and vulnerable App for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-05-19T21:04:24Z",
+            "owner": "payatu",
+            "repo": "diva-android",
+            "stars": 1134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InjuredAndroid",
+          "description": "A vulnerable Android application that shows simple examples of vulnerabilities in a ctf style.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2021-06-25T04:04:14Z",
+            "owner": "B3nac",
+            "repo": "InjuredAndroid",
+            "stars": 762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Damn Vulnerable Bank",
+          "description": "Damn Vulnerable Bank is designed to be an intentionally vulnerable android application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-12-13T07:48:44Z",
+            "owner": "rewanthtammana",
+            "repo": "Damn-Vulnerable-Bank",
+            "stars": 755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OVAA",
+          "description": "Oversecured Vulnerable Android App.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-18T00:33:14Z",
+            "owner": "oversecured",
+            "repo": "ovaa",
+            "stars": 754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Allsafe",
+          "description": "Allsafe is an intentionally vulnerable application that contains various vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-09-20T10:47:24Z",
+            "owner": "t0thkr1s",
+            "repo": "allsafe-android",
+            "stars": 410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroGoat",
+          "description": "AndroGoat is purposely developed open source vulnerable/insecure app using Kotlin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-11-22T05:08:54Z",
+            "owner": "satishpatnayak",
+            "repo": "AndroGoat",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InsecureShop",
+          "description": "An Intentionally designed Vulnerable Android Application built in Kotlin.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2022-03-02T07:35:32Z",
+            "owner": "optiv",
+            "repo": "InsecureShop",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vulnerable Kext",
+          "description": "A WIP \"Vulnerable by Design\" kext for iOS/macOS to play & learn *OS kernel exploitation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2020-12-29T11:34:24Z",
+            "owner": "ant4g0nist",
+            "repo": "Vulnerable-Kext",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Security Testing",
+          "description": "hpAndro1337 Application made in Kotlin with multiple vulnerabilities and a CTF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-26T22:17:34Z",
+            "owner": "RavikumarRamesh",
+            "repo": "hpAndro1337",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vuldroid",
+          "description": "Android Application covering various static and dynamic vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-09-18T08:25:30Z",
+            "owner": "jaiswalakshansh",
+            "repo": "Vuldroid",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VulnLab APK",
+          "description": "Intentionally vulnerable Android app covering OWASP Mobile Top 10 classes with exploit commands and screenshots.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-18T05:01:31Z",
+            "owner": "anpa1200",
+            "repo": "Vulnerable-APK",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Mobile Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Owasp Juice shop",
+          "description": "OWASP Juice Shop: Probably the most modern and sophisticated insecure web application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T21:37:50Z",
+            "owner": "juice-shop",
+            "repo": "juice-shop",
+            "stars": 13661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DVWA",
+          "description": "Damn Vulnerable Web Application (DVWA)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-07T11:10:23Z",
+            "owner": "digininja",
+            "repo": "DVWA",
+            "stars": 13491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGoat",
+          "description": "WebGoat is a deliberately insecure application by OWASP for training purpose",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T09:53:37Z",
+            "owner": "WebGoat",
+            "repo": "WebGoat",
+            "stars": 9277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xtreme Vulnerable Web Application",
+          "description": "XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2020-09-12T17:26:24Z",
+            "owner": "s4n7h0",
+            "repo": "xvwa",
+            "stars": 1763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crApi",
+          "description": "completely ridiculous API: crAPI will help you to understand the ten most critical API security risks. crAPI is vulnerable by design, but you'll be able to safely run it to educate/train yourself.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-14T19:52:37Z",
+            "owner": "OWASP",
+            "repo": "crAPI",
+            "stars": 1555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OWASP Mutillidae II",
+          "description": "OWASP Mutillidae II is a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiast.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-22T23:27:44Z",
+            "owner": "webpwnized",
+            "repo": "mutillidae",
+            "stars": 1509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VAmPI",
+          "description": "Vulnerable REST API with OWASP top 10 vulnerabilities for security testing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-07T20:02:39Z",
+            "owner": "erev0s",
+            "repo": "VAmPI",
+            "stars": 1278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSVW",
+          "description": "Damn Small Vulnerable Web",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T09:06:06Z",
+            "owner": "stamparm",
+            "repo": "DSVW",
+            "stars": 880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VulnLab",
+          "description": "A vulnerable web application lab using Docker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-02-02T18:40:45Z",
+            "owner": "Yavuzlar",
+            "repo": "VulnLab",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Owasp VulnerableApp",
+          "description": "A modular deliberately vulnerable application designed primarily for validating and benchmarking security scanners through reproducible test scenarios, while also supporting learning and experimentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T03:24:11Z",
+            "owner": "SasanLabs",
+            "repo": "VulnerableApp",
+            "stars": 448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pentest_lab",
+          "description": "Local penetration testing lab using docker-compose.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-06-17T04:10:11Z",
+            "owner": "oliverwiegers",
+            "repo": "pentest_lab",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bWAPP",
+          "description": "This is just an instance of the OWASP bWAPP project as a docker container.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-12-01T20:53:35Z",
+            "owner": "raesene",
+            "repo": "bWAPP",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lazyweb",
+          "description": "This web application is a demonstration of common server-side application flaws. Each of the vulnerabilities has its own difficulty rating.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-02-16T15:13:36Z",
+            "owner": "RamadhanAmizudin",
+            "repo": "lazyweb",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSS – OopsSec Store",
+          "description": "An intentionally vulnerable e-commerce application built with Next.js and React. A self-hosted CTF platform for web security training covering OWASP Top 10 vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T16:23:20Z",
+            "owner": "kOaDT",
+            "repo": "oss-oopssec-store",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "OWASP Top 10"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xssed",
+          "description": "A set of XSS vulnerable PHP scripts for testing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2013-02-10T02:54:14Z",
+            "owner": "aj00200",
+            "repo": "xssed",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xssable",
+          "description": "A vulnerable blogging platform used to demonstrate XSS vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-12-15T05:58:25Z",
+            "owner": "kiwicom",
+            "repo": "xssable",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XSSworm.dev",
+          "description": "Self-replication contest",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2020-12-01T18:12:36Z",
+            "owner": "vavkamil",
+            "repo": "XSSworm.dev",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "XSS Injection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CORS-vulnerable-Lab",
+          "description": "Sample vulnerable code and its exploit code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-03-14T08:11:55Z",
+            "owner": "incredibleindishell",
+            "repo": "CORS-vulnerable-Lab",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CORS misconfiguration vulnerable Lab",
+          "description": "This Repository contains CORS misconfiguration related vulnerable codes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-08-25T03:01:03Z",
+            "owner": "incredibleindishell",
+            "repo": "CORS_vulnerable_Lab-Without_Database",
+            "stars": 66
+          }
+        }
+      ],
+      "title": "CORS Misconfiguration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "XXE Lab",
+          "description": "A simple web app with a XXE vulnerability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-11-10T12:01:04Z",
+            "owner": "jbarone",
+            "repo": "xxelab",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docker-java-xxe",
+          "description": "Docker image to test XXE attacks in java with tomcat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smarty",
+            "last_commit": "2018-11-10T13:30:37Z",
+            "owner": "pimps",
+            "repo": "docker-java-xxe",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "XXE Injection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Technologies"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DVNA",
+          "description": "Damn Vulnerable NodeJS Application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2024-03-27T17:02:04Z",
+            "owner": "appsecco",
+            "repo": "dvna",
+            "stars": 778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dvws-node",
+          "description": "Damn Vulnerable Web Service is a vulnerable web service/API/application that can be used to learn webservices/API vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-29T21:11:50Z",
+            "owner": "snoopysecurity",
+            "repo": "dvws-node",
+            "stars": 514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "exploit-workshop",
+          "description": "A step by step workshop to exploit various vulnerabilities in Node.js and Java applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-17T15:57:18Z",
+            "owner": "snyk-labs",
+            "repo": "exploit-workshop",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Extreme Vulnerable Node Application",
+          "description": "Extreme Vulnerable Node Application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-11-12T23:33:17Z",
+            "owner": "vegabird",
+            "repo": "xvna",
+            "stars": 95
+          }
+        }
+      ],
+      "title": "Node.js"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OWASP IoT Goat",
+          "description": "IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-05T01:37:06Z",
+            "owner": "OWASP",
+            "repo": "IoTGoat",
+            "stars": 917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DVRF",
+          "description": "The Damn Vulnerable Router Firmware Project",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2021-04-07T22:27:40Z",
+            "owner": "praetorian-inc",
+            "repo": "DVRF",
+            "stars": 720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DVID",
+          "description": "Damn Vulnerable IoT Device",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-02-12T20:22:55Z",
+            "owner": "Vulcainreo",
+            "repo": "DVID",
+            "stars": 225
+          }
+        }
+      ],
+      "title": "Firmware"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vulhub",
+          "description": "Vulhub is an open-source collection of pre-built vulnerable docker environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-07-22T18:03:31Z",
+            "owner": "vulhub",
+            "repo": "vulhub",
+            "stars": 21113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CI/CD Goat",
+          "description": "Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, catch the flags.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-14T11:26:38Z",
+            "owner": "cider-security-research",
+            "repo": "cicd-goat",
+            "stars": 2284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Damn-Vulnerable-GraphQL-Application",
+          "description": "Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-24T16:38:08Z",
+            "owner": "dolevf",
+            "repo": "Damn-Vulnerable-GraphQL-Application",
+            "stars": 1703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vulnserver",
+          "description": "Vulnerable server used for learning software exploitation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-10-09T00:40:05Z",
+            "owner": "stephenbradshaw",
+            "repo": "vulnserver",
+            "stars": 1129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Damn Vulnerable RESTaurant",
+          "description": "Intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T21:14:09Z",
+            "owner": "theowni",
+            "repo": "Damn-Vulnerable-RESTaurant-API-Game",
+            "stars": 932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OWASP-VWAD",
+          "description": "The OWASP Vulnerable Web Applications Directory project (VWAD) is a comprehensive and well maintained registry of all known vulnerable web applications currently available.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-20T03:22:30Z",
+            "owner": "OWASP",
+            "repo": "OWASP-VWAD",
+            "stars": 886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Actions Goat",
+          "description": "Deliberately Vulnerable GitHub Actions CI/CD Environment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-27T08:19:17Z",
+            "owner": "step-security",
+            "repo": "github-actions-goat",
+            "stars": 515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OWASP SKF labs",
+          "description": "Repo for all the OWASP-SKF Docker lab examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-02T11:33:45Z",
+            "owner": "blabla1337",
+            "repo": "skf-labs",
+            "stars": 465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dvws - Damn Vulnerable Web Services",
+          "description": "Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real world web service vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-12-06T00:15:00Z",
+            "owner": "snoopysecurity",
+            "repo": "dvws",
+            "stars": 460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leaky-repo",
+          "description": "Benchmarking repo for secrets scanning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-18T22:23:53Z",
+            "owner": "Plazmaz",
+            "repo": "leaky-repo",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vulnerable-nginx",
+          "description": "An intentionally vulnerable NGINX setup",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2020-11-10T08:56:40Z",
+            "owner": "detectify",
+            "repo": "vulnerable-nginx",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wavsep",
+          "description": "The Web Application Vulnerability Scanner Evaluation Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-10-05T10:03:43Z",
+            "owner": "sectooladdict",
+            "repo": "wavsep",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuzzgoat",
+          "description": "A vulnerable C program for testing fuzzers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-11-10T08:58:34Z",
+            "owner": "fuzzstati0n",
+            "repo": "fuzzgoat",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Damn Vulnerable Thick Client",
+          "description": "Damn Vulnerable Thick Client App developed in C# .NET",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-08-17T21:01:36Z",
+            "owner": "srini0x00",
+            "repo": "dvta",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raspwn OS",
+          "description": "The intentionally vulnerable image for the Raspberry Pi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-04-28T19:09:38Z",
+            "owner": "alphacharlie",
+            "repo": "RasPwn",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VulnerableLightApp",
+          "description": ".NET vulnerable REST API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-25T11:40:44Z",
+            "owner": "Aif4thah",
+            "repo": "VulnerableLightApp",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python_security",
+          "description": "This repository collects lists of security-relavent Python APIs, along with examples of exploits using those APIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-09T20:26:09Z",
+            "owner": "gbleaney",
+            "repo": "python_security",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LogSnare",
+          "description": "A playground for testing, preventing, and logging IDOR vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-03-04T12:28:06Z",
+            "owner": "sea-erkin",
+            "repo": "log-snare",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSTE-Vulnerable-Web-Application",
+          "description": "Vulnerable Web application made with PHP/SQL designed to help new web testers gain some experience and test DAST tools for identifying web vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-12-15T23:12:22Z",
+            "owner": "OSTEsayed",
+            "repo": "OSTE-Vulnerable-Web-Application",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vulnerable AI Lab",
+          "description": "Intentionally vulnerable AI agent lab for practicing RAG injection, tool misuse, memory poisoning, supply-chain compromise, and data exfiltration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T03:55:24Z",
+            "owner": "anpa1200",
+            "repo": "AI-PT-Lab",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VulnDoge",
+          "description": "Web app for hunters",
+          "children": []
+        }
+      ],
+      "title": "Uncategorized"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, vavkamil has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:57:18.961Z",
+    "original_repository": "vavkamil/awesome-vulnerable-apps",
+    "original_repository_sha": "d0c294ba921b2b0489355eb642325bf6820b5375",
+    "enhanced_repository": "enhansome/enhansome-vulnerable-apps",
+    "enhanced_repository_description": null,
+    "title": "Awesome Vulnerable Applications with stars"
+  }
+}
