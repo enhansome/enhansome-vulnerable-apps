@@ -14,7 +14,7 @@
             "last_commit": "2026-07-22T18:03:31Z",
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21119
+            "stars": 21122
           }
         },
         {
@@ -48,7 +48,7 @@
             "last_commit": "2026-04-16T22:11:11Z",
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5745
+            "stars": 5747
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-07-13T12:11:17Z",
             "owner": "bridgecrewio",
             "repo": "terragoat",
-            "stars": 1304
+            "stars": 1305
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-03-12T15:38:01Z",
             "owner": "BishopFox",
             "repo": "iam-vulnerable",
-            "stars": 585
+            "stars": 586
           }
         },
         {
@@ -334,7 +334,7 @@
             "last_commit": "2025-11-22T05:08:54Z",
             "owner": "satishpatnayak",
             "repo": "AndroGoat",
-            "stars": 387
+            "stars": 388
           }
         },
         {
@@ -424,7 +424,7 @@
             "last_commit": "2026-08-10T21:37:50Z",
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13669
+            "stars": 13672
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2026-08-07T11:10:23Z",
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13496
+            "stars": 13499
           }
         },
         {
@@ -508,7 +508,7 @@
             "last_commit": "2026-04-07T20:02:39Z",
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1301
+            "stars": 1305
           }
         },
         {
@@ -547,10 +547,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T05:31:16Z",
+            "last_commit": "2026-08-16T04:33:00Z",
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
-            "stars": 450
+            "stars": 455
           }
         },
         {
@@ -603,7 +603,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T22:42:43Z",
+            "last_commit": "2026-08-16T04:12:55Z",
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 34
@@ -674,7 +674,7 @@
             "last_commit": "2021-03-14T08:11:55Z",
             "owner": "incredibleindishell",
             "repo": "CORS-vulnerable-Lab",
-            "stars": 190
+            "stars": 189
           }
         },
         {
@@ -857,7 +857,7 @@
             "last_commit": "2026-07-22T18:03:31Z",
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21119
+            "stars": 21122
           }
         },
         {
@@ -871,7 +871,7 @@
             "last_commit": "2024-07-14T11:26:38Z",
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2285
+            "stars": 2287
           }
         },
         {
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T05:45:42.796Z",
+    "last_updated": "2026-08-16T05:48:21.668Z",
     "original_repository": "vavkamil/awesome-vulnerable-apps",
     "original_repository_sha": "d0c294ba921b2b0489355eb642325bf6820b5375",
     "enhanced_repository": "enhansome/enhansome-vulnerable-apps",
