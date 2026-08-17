@@ -14,7 +14,7 @@
             "last_commit": "2026-07-22T18:03:31Z",
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21122
+            "stars": 21132
           }
         },
         {
@@ -48,7 +48,7 @@
             "last_commit": "2026-04-16T22:11:11Z",
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5747
+            "stars": 5746
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3694
+            "stars": 3697
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2024-04-17T12:40:37Z",
             "owner": "dineshshetty",
             "repo": "Android-InsecureBankv2",
-            "stars": 1465
+            "stars": 1466
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2023-05-19T21:04:24Z",
             "owner": "payatu",
             "repo": "diva-android",
-            "stars": 1135
+            "stars": 1136
           }
         },
         {
@@ -424,7 +424,7 @@
             "last_commit": "2026-08-10T21:37:50Z",
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13672
+            "stars": 13678
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2026-08-07T11:10:23Z",
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13499
+            "stars": 13502
           }
         },
         {
@@ -452,7 +452,7 @@
             "last_commit": "2026-08-14T13:45:49Z",
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9278
+            "stars": 9280
           }
         },
         {
@@ -494,7 +494,7 @@
             "last_commit": "2026-06-22T23:27:44Z",
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1510
+            "stars": 1511
           }
         },
         {
@@ -508,7 +508,7 @@
             "last_commit": "2026-04-07T20:02:39Z",
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1305
+            "stars": 1307
           }
         },
         {
@@ -547,7 +547,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T04:33:00Z",
+            "last_commit": "2026-08-17T03:14:13Z",
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
             "stars": 455
@@ -603,10 +603,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T04:12:55Z",
+            "last_commit": "2026-08-16T08:16:22Z",
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 34
+            "stars": 35
           }
         }
       ],
@@ -857,7 +857,7 @@
             "last_commit": "2026-07-22T18:03:31Z",
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21122
+            "stars": 21132
           }
         },
         {
@@ -871,7 +871,7 @@
             "last_commit": "2024-07-14T11:26:38Z",
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2287
+            "stars": 2286
           }
         },
         {
@@ -899,7 +899,7 @@
             "last_commit": "2020-10-09T00:40:05Z",
             "owner": "stephenbradshaw",
             "repo": "vulnserver",
-            "stars": 1130
+            "stars": 1131
           }
         },
         {
@@ -913,7 +913,7 @@
             "last_commit": "2026-07-09T21:14:09Z",
             "owner": "theowni",
             "repo": "Damn-Vulnerable-RESTaurant-API-Game",
-            "stars": 931
+            "stars": 932
           }
         },
         {
@@ -1147,7 +1147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:48:21.668Z",
+    "last_updated": "2026-08-17T05:54:34.647Z",
     "original_repository": "vavkamil/awesome-vulnerable-apps",
     "original_repository_sha": "d0c294ba921b2b0489355eb642325bf6820b5375",
     "enhanced_repository": "enhansome/enhansome-vulnerable-apps",
