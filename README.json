@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87699760,
             "language": "Dockerfile",
             "last_commit": "2026-07-22T18:03:31Z",
             "owner": "vulhub",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66874942,
             "language": "HTML",
             "last_commit": "2025-02-13T14:49:38Z",
             "owner": "rapid7",
@@ -35,7 +37,7 @@
       "title": "Vulnerable VMs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 269419110,
             "language": "HTML",
             "last_commit": "2026-04-16T22:11:11Z",
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5749
+            "stars": 5751
           }
         },
         {
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141209050,
             "language": "Python",
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3699
+            "stars": 3701
           }
         },
         {
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 513468803,
             "language": "PHP",
             "last_commit": "2025-05-20T09:25:36Z",
             "owner": "ine-labs",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 250592027,
             "language": "HCL",
             "last_commit": "2025-07-13T12:11:17Z",
             "owner": "bridgecrewio",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 523055206,
             "language": "Python",
             "last_commit": "2024-10-30T06:37:46Z",
             "owner": "ine-labs",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214713418,
             "language": "HCL",
             "last_commit": "2023-10-14T19:09:38Z",
             "owner": "nccgroup",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344529392,
             "language": "HCL",
             "last_commit": "2026-03-12T15:38:01Z",
             "owner": "BishopFox",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 673793125,
             "language": "Go",
             "last_commit": "2024-09-04T17:12:55Z",
             "owner": "tenable",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229638745,
             "language": "Python",
             "last_commit": "2026-08-18T11:09:52Z",
             "owner": "avishayil",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258656556,
             "language": null,
             "last_commit": "2024-08-05T22:09:01Z",
             "owner": "bridgecrewio",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 382016768,
             "language": "TypeScript",
             "last_commit": "2026-05-28T09:01:57Z",
             "owner": "dynatrace-oss",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 283234953,
             "language": "Python",
             "last_commit": "2023-05-09T01:14:28Z",
             "owner": "bridgecrewio",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1214062756,
             "language": null,
             "last_commit": "2026-04-18T04:13:48Z",
             "owner": "commjoen",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1179516146,
             "language": "Shell",
             "last_commit": "2026-06-18T03:57:31Z",
             "owner": "anpa1200",
@@ -237,7 +253,7 @@
       "title": "Cloud Security"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -246,11 +262,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23531232,
             "language": "Java",
             "last_commit": "2024-04-17T12:40:37Z",
             "owner": "dineshshetty",
             "repo": "Android-InsecureBankv2",
-            "stars": 1466
+            "stars": 1467
           }
         },
         {
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49703655,
             "language": "Java",
             "last_commit": "2023-05-19T21:04:24Z",
             "owner": "payatu",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 112266165,
             "language": "Kotlin",
             "last_commit": "2021-06-25T04:04:14Z",
             "owner": "B3nac",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 294934346,
             "language": "Java",
             "last_commit": "2023-12-13T07:48:44Z",
             "owner": "rewanthtammana",
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 256492557,
             "language": "Java",
             "last_commit": "2024-07-18T00:33:14Z",
             "owner": "oversecured",
@@ -316,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 312809182,
             "language": "Java",
             "last_commit": "2025-09-20T10:47:24Z",
             "owner": "t0thkr1s",
@@ -330,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202075563,
             "language": "Kotlin",
             "last_commit": "2025-11-22T05:08:54Z",
             "owner": "satishpatnayak",
@@ -344,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 371128562,
             "language": "Kotlin",
             "last_commit": "2022-03-02T07:35:32Z",
             "owner": "optiv",
@@ -358,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 324805121,
             "language": "C",
             "last_commit": "2020-12-29T11:34:24Z",
             "owner": "ant4g0nist",
@@ -372,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 385654377,
             "language": null,
             "last_commit": "2023-12-26T22:17:34Z",
             "owner": "RavikumarRamesh",
@@ -386,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 291808861,
             "language": "Java",
             "last_commit": "2021-09-18T08:25:30Z",
             "owner": "jaiswalakshansh",
@@ -400,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1204216915,
             "language": "Java",
             "last_commit": "2026-06-18T05:01:31Z",
             "owner": "anpa1200",
@@ -411,7 +439,7 @@
       "title": "Mobile Security"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -420,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24233689,
             "language": "TypeScript",
             "last_commit": "2026-08-10T21:37:50Z",
             "owner": "juice-shop",
@@ -434,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9791525,
             "language": "PHP",
             "last_commit": "2026-08-07T11:10:23Z",
             "owner": "digininja",
@@ -448,11 +478,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31771754,
             "language": "JavaScript",
             "last_commit": "2026-08-14T13:45:49Z",
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9283
+            "stars": 9284
           }
         },
         {
@@ -462,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 44470991,
             "language": "PHP",
             "last_commit": "2020-09-12T17:26:24Z",
             "owner": "s4n7h0",
@@ -476,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 335756350,
             "language": "Java",
             "last_commit": "2026-05-14T19:52:37Z",
             "owner": "OWASP",
@@ -490,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150676011,
             "language": "PHP",
             "last_commit": "2026-06-22T23:27:44Z",
             "owner": "webpwnized",
@@ -504,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 301193365,
             "language": "Python",
             "last_commit": "2026-04-07T20:02:39Z",
             "owner": "erev0s",
@@ -518,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46572746,
             "language": "Python",
             "last_commit": "2026-08-11T09:06:06Z",
             "owner": "stamparm",
@@ -532,6 +568,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 441926125,
             "language": "CSS",
             "last_commit": "2025-02-02T18:40:45Z",
             "owner": "Yavuzlar",
@@ -546,6 +583,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206928287,
             "language": "Java",
             "last_commit": "2026-08-19T03:09:29Z",
             "owner": "SasanLabs",
@@ -560,11 +598,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 277592112,
             "language": "Shell",
             "last_commit": "2025-06-17T04:10:11Z",
             "owner": "oliverwiegers",
             "repo": "pentest_lab",
-            "stars": 218
+            "stars": 219
           }
         },
         {
@@ -574,6 +613,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 42655777,
             "language": "PHP",
             "last_commit": "2021-12-01T20:53:35Z",
             "owner": "raesene",
@@ -588,6 +628,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163279298,
             "language": "PHP",
             "last_commit": "2025-02-16T15:13:36Z",
             "owner": "RamadhanAmizudin",
@@ -602,249 +643,270 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1118475908,
             "language": "TypeScript",
             "last_commit": "2026-08-18T16:35:53Z",
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 38
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "xssed",
+              "description": "A set of XSS vulnerable PHP scripts for testing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1931887,
+                "language": "PHP",
+                "last_commit": "2013-02-10T02:54:14Z",
+                "owner": "aj00200",
+                "repo": "xssed",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xssable",
+              "description": "A vulnerable blogging platform used to demonstrate XSS vulnerabilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 187627016,
+                "language": "HTML",
+                "last_commit": "2023-12-15T05:58:25Z",
+                "owner": "kiwicom",
+                "repo": "xssable",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XSSworm.dev",
+              "description": "Self-replication contest",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 316827982,
+                "language": "CSS",
+                "last_commit": "2020-12-01T18:12:36Z",
+                "owner": "vavkamil",
+                "repo": "XSSworm.dev",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "XSS Injection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CORS-vulnerable-Lab",
+              "description": "Sample vulnerable code and its exploit code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183077169,
+                "language": "PHP",
+                "last_commit": "2021-03-14T08:11:55Z",
+                "owner": "incredibleindishell",
+                "repo": "CORS-vulnerable-Lab",
+                "stars": 189
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CORS misconfiguration vulnerable Lab",
+              "description": "This Repository contains CORS misconfiguration related vulnerable codes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 347602429,
+                "language": "PHP",
+                "last_commit": "2021-08-25T03:01:03Z",
+                "owner": "incredibleindishell",
+                "repo": "CORS_vulnerable_Lab-Without_Database",
+                "stars": 66
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CORS Misconfiguration"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "XXE Lab",
+              "description": "A simple web app with a XXE vulnerability.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50478090,
+                "language": "HTML",
+                "last_commit": "2021-11-10T12:01:04Z",
+                "owner": "jbarone",
+                "repo": "xxelab",
+                "stars": 229
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "docker-java-xxe",
+              "description": "Docker image to test XXE attacks in java with tomcat.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138990570,
+                "language": "Smarty",
+                "last_commit": "2018-11-10T13:30:37Z",
+                "owner": "pimps",
+                "repo": "docker-java-xxe",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "XXE Injection"
         }
       ],
       "title": "OWASP Top 10"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "xssed",
-          "description": "A set of XSS vulnerable PHP scripts for testing",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2013-02-10T02:54:14Z",
-            "owner": "aj00200",
-            "repo": "xssed",
-            "stars": 38
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DVNA",
+              "description": "Damn Vulnerable NodeJS Application",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110521300,
+                "language": "SCSS",
+                "last_commit": "2024-03-27T17:02:04Z",
+                "owner": "appsecco",
+                "repo": "dvna",
+                "stars": 778
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dvws-node",
+              "description": "Damn Vulnerable Web Service is a vulnerable web service/API/application that can be used to learn webservices/API vulnerabilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253220810,
+                "language": "JavaScript",
+                "last_commit": "2026-03-29T21:11:50Z",
+                "owner": "snoopysecurity",
+                "repo": "dvws-node",
+                "stars": 515
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "exploit-workshop",
+              "description": "A step by step workshop to exploit various vulnerabilities in Node.js and Java applications",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174053573,
+                "language": null,
+                "last_commit": "2024-03-17T15:57:18Z",
+                "owner": "snyk-labs",
+                "repo": "exploit-workshop",
+                "stars": 156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Extreme Vulnerable Node Application",
+              "description": "Extreme Vulnerable Node Application",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114203610,
+                "language": null,
+                "last_commit": "2018-11-12T23:33:17Z",
+                "owner": "vegabird",
+                "repo": "xvna",
+                "stars": 95
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Node.js"
         },
         {
-          "node_type": "item",
-          "title": "xssable",
-          "description": "A vulnerable blogging platform used to demonstrate XSS vulnerabilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2023-12-15T05:58:25Z",
-            "owner": "kiwicom",
-            "repo": "xssable",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "XSSworm.dev",
-          "description": "Self-replication contest",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2020-12-01T18:12:36Z",
-            "owner": "vavkamil",
-            "repo": "XSSworm.dev",
-            "stars": 6
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OWASP IoT Goat",
+              "description": "IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 212652384,
+                "language": "C",
+                "last_commit": "2025-10-05T01:37:06Z",
+                "owner": "OWASP",
+                "repo": "IoTGoat",
+                "stars": 918
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DVRF",
+              "description": "The Damn Vulnerable Router Firmware Project",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 49921504,
+                "language": "HTML",
+                "last_commit": "2021-04-07T22:27:40Z",
+                "owner": "praetorian-inc",
+                "repo": "DVRF",
+                "stars": 720
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DVID",
+              "description": "Damn Vulnerable IoT Device",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168951812,
+                "language": "C",
+                "last_commit": "2024-02-12T20:22:55Z",
+                "owner": "Vulcainreo",
+                "repo": "DVID",
+                "stars": 225
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Firmware"
         }
       ],
-      "title": "XSS Injection"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CORS-vulnerable-Lab",
-          "description": "Sample vulnerable code and its exploit code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-03-14T08:11:55Z",
-            "owner": "incredibleindishell",
-            "repo": "CORS-vulnerable-Lab",
-            "stars": 189
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CORS misconfiguration vulnerable Lab",
-          "description": "This Repository contains CORS misconfiguration related vulnerable codes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-08-25T03:01:03Z",
-            "owner": "incredibleindishell",
-            "repo": "CORS_vulnerable_Lab-Without_Database",
-            "stars": 66
-          }
-        }
-      ],
-      "title": "CORS Misconfiguration"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "XXE Lab",
-          "description": "A simple web app with a XXE vulnerability.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2021-11-10T12:01:04Z",
-            "owner": "jbarone",
-            "repo": "xxelab",
-            "stars": 229
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "docker-java-xxe",
-          "description": "Docker image to test XXE attacks in java with tomcat.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Smarty",
-            "last_commit": "2018-11-10T13:30:37Z",
-            "owner": "pimps",
-            "repo": "docker-java-xxe",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "XXE Injection"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Technologies"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DVNA",
-          "description": "Damn Vulnerable NodeJS Application",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "SCSS",
-            "last_commit": "2024-03-27T17:02:04Z",
-            "owner": "appsecco",
-            "repo": "dvna",
-            "stars": 778
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dvws-node",
-          "description": "Damn Vulnerable Web Service is a vulnerable web service/API/application that can be used to learn webservices/API vulnerabilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-29T21:11:50Z",
-            "owner": "snoopysecurity",
-            "repo": "dvws-node",
-            "stars": 515
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "exploit-workshop",
-          "description": "A step by step workshop to exploit various vulnerabilities in Node.js and Java applications",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-03-17T15:57:18Z",
-            "owner": "snyk-labs",
-            "repo": "exploit-workshop",
-            "stars": 156
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Extreme Vulnerable Node Application",
-          "description": "Extreme Vulnerable Node Application",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2018-11-12T23:33:17Z",
-            "owner": "vegabird",
-            "repo": "xvna",
-            "stars": 95
-          }
-        }
-      ],
-      "title": "Node.js"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OWASP IoT Goat",
-          "description": "IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-10-05T01:37:06Z",
-            "owner": "OWASP",
-            "repo": "IoTGoat",
-            "stars": 918
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DVRF",
-          "description": "The Damn Vulnerable Router Firmware Project",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "HTML",
-            "last_commit": "2021-04-07T22:27:40Z",
-            "owner": "praetorian-inc",
-            "repo": "DVRF",
-            "stars": 720
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DVID",
-          "description": "Damn Vulnerable IoT Device",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-02-12T20:22:55Z",
-            "owner": "Vulcainreo",
-            "repo": "DVID",
-            "stars": 225
-          }
-        }
-      ],
-      "title": "Firmware"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -853,6 +915,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87699760,
             "language": "Dockerfile",
             "last_commit": "2026-07-22T18:03:31Z",
             "owner": "vulhub",
@@ -867,11 +930,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 474598050,
             "language": "Python",
             "last_commit": "2024-07-14T11:26:38Z",
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2290
+            "stars": 2291
           }
         },
         {
@@ -881,6 +945,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 335754653,
             "language": "JavaScript",
             "last_commit": "2025-05-24T16:38:08Z",
             "owner": "dolevf",
@@ -895,6 +960,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20147614,
             "language": "C",
             "last_commit": "2020-10-09T00:40:05Z",
             "owner": "stephenbradshaw",
@@ -909,6 +975,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 777483173,
             "language": "Python",
             "last_commit": "2026-07-09T21:14:09Z",
             "owner": "theowni",
@@ -923,6 +990,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13750564,
             "language": null,
             "last_commit": "2026-07-20T03:22:30Z",
             "owner": "OWASP",
@@ -937,6 +1005,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 402875775,
             "language": "JavaScript",
             "last_commit": "2025-06-27T08:19:17Z",
             "owner": "step-security",
@@ -951,6 +1020,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164591408,
             "language": "Python",
             "last_commit": "2024-08-02T11:33:45Z",
             "owner": "blabla1337",
@@ -965,6 +1035,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 49496640,
             "language": "PHP",
             "last_commit": "2021-12-06T00:15:00Z",
             "owner": "snoopysecurity",
@@ -979,6 +1050,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220162081,
             "language": "Python",
             "last_commit": "2024-08-18T22:23:53Z",
             "owner": "Plazmaz",
@@ -993,6 +1065,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 311599130,
             "language": "Dockerfile",
             "last_commit": "2020-11-10T08:56:40Z",
             "owner": "detectify",
@@ -1007,6 +1080,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17191860,
             "language": "Java",
             "last_commit": "2022-10-05T10:03:43Z",
             "owner": "sectooladdict",
@@ -1021,6 +1095,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93589072,
             "language": "C",
             "last_commit": "2022-11-10T08:58:34Z",
             "owner": "fuzzstati0n",
@@ -1035,6 +1110,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278873905,
             "language": "C#",
             "last_commit": "2023-08-17T21:01:36Z",
             "owner": "srini0x00",
@@ -1049,6 +1125,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67382282,
             "language": "Shell",
             "last_commit": "2017-04-28T19:09:38Z",
             "owner": "alphacharlie",
@@ -1063,6 +1140,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 733457829,
             "language": "C#",
             "last_commit": "2026-02-25T11:40:44Z",
             "owner": "Aif4thah",
@@ -1077,6 +1155,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 351554925,
             "language": "Python",
             "last_commit": "2021-05-09T20:26:09Z",
             "owner": "gbleaney",
@@ -1091,6 +1170,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 761216745,
             "language": "CSS",
             "last_commit": "2024-03-04T12:28:06Z",
             "owner": "sea-erkin",
@@ -1105,6 +1185,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 668502831,
             "language": "PHP",
             "last_commit": "2023-12-15T23:12:22Z",
             "owner": "OSTEsayed",
@@ -1119,36 +1200,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1222491856,
             "language": "Python",
             "last_commit": "2026-06-18T03:55:24Z",
             "owner": "anpa1200",
             "repo": "AI-PT-Lab",
             "stars": 10
           }
-        },
-        {
-          "node_type": "item",
-          "title": "VulnDoge",
-          "description": "Web app for hunters",
-          "children": []
         }
       ],
       "title": "Uncategorized"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, vavkamil has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:50:56.123Z",
+    "last_updated": "2026-08-19T12:57:33.826Z",
     "original_repository": "vavkamil/awesome-vulnerable-apps",
+    "original_repository_id": 210446743,
     "original_repository_sha": "d0c294ba921b2b0489355eb642325bf6820b5375",
     "enhanced_repository": "enhansome/enhansome-vulnerable-apps",
     "enhanced_repository_description": null,
