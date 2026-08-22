@@ -15,7 +15,7 @@
             "last_commit": "2026-07-22T18:03:31Z",
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21150
+            "stars": 21152
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-02-13T14:49:38Z",
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5670
+            "stars": 5671
           }
         }
       ],
@@ -111,7 +111,7 @@
             "last_commit": "2024-10-30T06:37:46Z",
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 958
+            "stars": 959
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2023-05-19T21:04:24Z",
             "owner": "payatu",
             "repo": "diva-android",
-            "stars": 1136
+            "stars": 1137
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2023-12-13T07:48:44Z",
             "owner": "rewanthtammana",
             "repo": "Damn-Vulnerable-Bank",
-            "stars": 755
+            "stars": 756
           }
         },
         {
@@ -450,10 +450,10 @@
             "archived": false,
             "id": 24233689,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T21:37:50Z",
+            "last_commit": "2026-08-21T17:13:00Z",
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13700
+            "stars": 13704
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2026-08-19T13:12:21Z",
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13519
+            "stars": 13523
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2026-08-14T13:45:49Z",
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9284
+            "stars": 9285
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-05-14T19:52:37Z",
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1562
+            "stars": 1564
           }
         },
         {
@@ -585,7 +585,7 @@
             "archived": false,
             "id": 206928287,
             "language": "Java",
-            "last_commit": "2026-08-21T04:30:16Z",
+            "last_commit": "2026-08-22T04:42:04Z",
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
             "stars": 457
@@ -645,7 +645,7 @@
             "archived": false,
             "id": 1118475908,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T16:35:53Z",
+            "last_commit": "2026-08-21T21:44:56Z",
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 40
@@ -920,7 +920,7 @@
             "last_commit": "2026-07-22T18:03:31Z",
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21150
+            "stars": 21152
           }
         },
         {
@@ -950,7 +950,7 @@
             "last_commit": "2025-05-24T16:38:08Z",
             "owner": "dolevf",
             "repo": "Damn-Vulnerable-GraphQL-Application",
-            "stars": 1705
+            "stars": 1704
           }
         },
         {
@@ -1213,7 +1213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T05:51:44.242Z",
+    "last_updated": "2026-08-22T05:47:16.215Z",
     "original_repository": "vavkamil/awesome-vulnerable-apps",
     "original_repository_id": 210446743,
     "original_repository_sha": "d0c294ba921b2b0489355eb642325bf6820b5375",
