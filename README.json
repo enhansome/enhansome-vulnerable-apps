@@ -15,7 +15,7 @@
             "last_commit": "2026-07-22T18:03:31Z",
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21157
+            "stars": 21161
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-02-13T14:49:38Z",
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5678
+            "stars": 5679
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2026-04-16T22:11:11Z",
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5752
+            "stars": 5753
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2026-08-21T17:13:00Z",
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13706
+            "stars": 13709
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2026-08-19T13:12:21Z",
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13533
+            "stars": 13535
           }
         },
         {
@@ -480,10 +480,10 @@
             "archived": false,
             "id": 31771754,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T13:45:49Z",
+            "last_commit": "2026-08-24T09:53:59Z",
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9288
+            "stars": 9289
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-05-14T19:52:37Z",
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1564
+            "stars": 1565
           }
         },
         {
@@ -655,6 +655,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Yet Another Vulnerability Database",
+              "description": "Yet Another Vulnerability Database",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 87656286,
+                "language": "Ruby",
+                "last_commit": "2021-07-23T13:41:33Z",
+                "owner": "rtfpessoa",
+                "repo": "yavdb",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SQL Injection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "xssed",
               "description": "A set of XSS vulnerable PHP scripts for testing",
               "children": [],
@@ -702,6 +724,28 @@
           "description": null,
           "node_type": "group",
           "title": "XSS Injection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SSRF_Vulnerable_Lab",
+              "description": "This Lab contain the sample codes which are vulnerable to Server-Side Request Forgery attack",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 210157977,
+                "language": "PHP",
+                "last_commit": "2023-08-21T17:02:38Z",
+                "owner": "incredibleindishell",
+                "repo": "SSRF_Vulnerable_Lab",
+                "stars": 790
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Server Side Request Forgery"
         },
         {
           "children": [
@@ -776,6 +820,28 @@
           "description": null,
           "node_type": "group",
           "title": "XXE Injection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Varnish HTTP/2 Request Smuggling",
+              "description": "This repository a docker-compose file to setup a local environment that is vulnerable to CVE-2021-36740 Varnish HTTP/2 request smuggling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 395326171,
+                "language": "VCL",
+                "last_commit": "2021-08-26T21:21:10Z",
+                "owner": "detectify",
+                "repo": "Varnish-H2-Request-Smuggling",
+                "stars": 56
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Request Smuggling"
         }
       ],
       "title": "OWASP Top 10"
@@ -783,6 +849,50 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DVWP",
+              "description": "Damn Vulnerable WordPress",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 258632484,
+                "language": "PHP",
+                "last_commit": "2023-12-23T00:57:44Z",
+                "owner": "vavkamil",
+                "repo": "dvwp",
+                "stars": 206
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WordPress"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The Most Vulnerable .NET App",
+              "description": "Interactive educational project that demonstrates common security vulnerabilities in .NET applications",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1163210197,
+                "language": "HTML",
+                "last_commit": "2026-03-06T17:02:35Z",
+                "owner": "AlexGoOn",
+                "repo": "the-most-vulnerable-dotnet-app",
+                "stars": 493
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ".NET"
+        },
         {
           "children": [
             {
@@ -920,7 +1030,7 @@
             "last_commit": "2026-07-22T18:03:31Z",
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21157
+            "stars": 21161
           }
         },
         {
@@ -1213,7 +1323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:57:21.826Z",
+    "last_updated": "2026-08-24T14:09:27.574Z",
     "original_repository": "vavkamil/awesome-vulnerable-apps",
     "original_repository_id": 210446743,
     "original_repository_sha": "d0c294ba921b2b0489355eb642325bf6820b5375",
