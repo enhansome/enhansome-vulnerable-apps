@@ -15,7 +15,7 @@
             "last_commit": "2026-07-22T18:03:31Z",
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21164
+            "stars": 21166
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-02-13T14:49:38Z",
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5679
+            "stars": 5681
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2026-04-16T22:11:11Z",
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5754
+            "stars": 5755
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3705
+            "stars": 3708
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2025-09-20T10:47:24Z",
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 414
+            "stars": 415
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2025-11-22T05:08:54Z",
             "owner": "satishpatnayak",
             "repo": "AndroGoat",
-            "stars": 391
+            "stars": 392
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2026-08-24T19:36:23Z",
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13715
+            "stars": 13720
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2026-08-19T13:12:21Z",
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13538
+            "stars": 13547
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2026-08-24T09:53:59Z",
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9290
+            "stars": 9292
           }
         },
         {
@@ -558,7 +558,7 @@
             "last_commit": "2026-08-19T21:27:32Z",
             "owner": "stamparm",
             "repo": "DSVW",
-            "stars": 880
+            "stars": 879
           }
         },
         {
@@ -585,7 +585,7 @@
             "archived": false,
             "id": 206928287,
             "language": "Java",
-            "last_commit": "2026-08-25T05:29:18Z",
+            "last_commit": "2026-08-26T05:41:46Z",
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
             "stars": 458
@@ -645,7 +645,7 @@
             "archived": false,
             "id": 1118475908,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T21:05:34Z",
+            "last_commit": "2026-08-25T09:15:33Z",
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 40
@@ -974,7 +974,7 @@
                 "last_commit": "2025-10-05T01:37:06Z",
                 "owner": "OWASP",
                 "repo": "IoTGoat",
-                "stars": 920
+                "stars": 921
               }
             },
             {
@@ -1030,7 +1030,7 @@
             "last_commit": "2026-07-22T18:03:31Z",
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21164
+            "stars": 21166
           }
         },
         {
@@ -1315,7 +1315,7 @@
             "last_commit": "2026-06-18T03:55:24Z",
             "owner": "anpa1200",
             "repo": "AI-PT-Lab",
-            "stars": 10
+            "stars": 11
           }
         }
       ],
@@ -1323,7 +1323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:06:47.852Z",
+    "last_updated": "2026-08-26T05:53:54.347Z",
     "original_repository": "vavkamil/awesome-vulnerable-apps",
     "original_repository_id": 210446743,
     "original_repository_sha": "d0c294ba921b2b0489355eb642325bf6820b5375",
