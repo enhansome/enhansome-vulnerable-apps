@@ -198,7 +198,7 @@
             "archived": false,
             "id": 382016768,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T13:32:25Z",
+            "last_commit": "2026-08-27T15:14:34Z",
             "owner": "dynatrace-oss",
             "repo": "unguard",
             "stars": 74
@@ -453,7 +453,7 @@
             "last_commit": "2026-08-24T19:36:23Z",
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13727
+            "stars": 13730
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2026-08-19T13:12:21Z",
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13553
+            "stars": 13555
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2026-08-24T09:53:59Z",
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9293
+            "stars": 9295
           }
         },
         {
@@ -573,7 +573,7 @@
             "last_commit": "2025-02-02T18:40:45Z",
             "owner": "Yavuzlar",
             "repo": "VulnLab",
-            "stars": 527
+            "stars": 528
           }
         },
         {
@@ -648,7 +648,7 @@
             "last_commit": "2026-08-25T09:15:33Z",
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 40
+            "stars": 41
           }
         },
         {
@@ -974,7 +974,7 @@
                 "last_commit": "2025-10-05T01:37:06Z",
                 "owner": "OWASP",
                 "repo": "IoTGoat",
-                "stars": 921
+                "stars": 922
               }
             },
             {
@@ -1045,7 +1045,7 @@
             "last_commit": "2024-07-14T11:26:38Z",
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2296
+            "stars": 2297
           }
         },
         {
@@ -1323,7 +1323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:12:31.578Z",
+    "last_updated": "2026-08-27T16:34:24.795Z",
     "original_repository_info": {
       "archived": false,
       "id": 210446743,
