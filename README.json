@@ -19,7 +19,7 @@
             "open_issues": 52,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21185,
+            "stars": 21188,
             "topics": [
               "docker",
               "docker-compose",
@@ -46,7 +46,7 @@
             "open_issues": 74,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5693,
+            "stars": 5694,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -73,7 +73,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5762,
+            "stars": 5766,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -156,7 +156,7 @@
             "open_issues": 61,
             "owner": "bridgecrewio",
             "repo": "terragoat",
-            "stars": 1305,
+            "stars": 1304,
             "topics": [
               "aws-security",
               "azure-security",
@@ -206,7 +206,7 @@
             "open_issues": 9,
             "owner": "nccgroup",
             "repo": "sadcloud",
-            "stars": 788,
+            "stars": 789,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -227,7 +227,7 @@
             "open_issues": 0,
             "owner": "BishopFox",
             "repo": "iam-vulnerable",
-            "stars": 589,
+            "stars": 590,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -316,7 +316,7 @@
             "open_issues": 19,
             "owner": "dynatrace-oss",
             "repo": "unguard",
-            "stars": 74,
+            "stars": 75,
             "topics": [
               "cloud-native",
               "exploits",
@@ -566,7 +566,7 @@
             "open_issues": 2,
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 417,
+            "stars": 419,
             "topics": [
               "android",
               "bugbounty",
@@ -761,7 +761,7 @@
             "open_issues": 6,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13751,
+            "stars": 13755,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -797,7 +797,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13580,
+            "stars": 13583,
             "topics": [
               "dvwa",
               "hacking",
@@ -826,7 +826,7 @@
             "open_issues": 40,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9311,
+            "stars": 9316,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -982,7 +982,7 @@
             "open_issues": 5,
             "owner": "Yavuzlar",
             "repo": "VulnLab",
-            "stars": 528,
+            "stars": 527,
             "topics": [
               "web-security",
               "web-security-lab"
@@ -1002,7 +1002,7 @@
             "id": 206928287,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T07:22:41Z",
+            "last_commit": "2026-09-01T06:10:25Z",
             "open_issues": 114,
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
@@ -1273,7 +1273,7 @@
                 "open_issues": 3,
                 "owner": "incredibleindishell",
                 "repo": "SSRF_Vulnerable_Lab",
-                "stars": 790,
+                "stars": 791,
                 "topics": [
                   "attack",
                   "exploitation",
@@ -1474,7 +1474,7 @@
                 "open_issues": 0,
                 "owner": "AlexGoOn",
                 "repo": "the-most-vulnerable-dotnet-app",
-                "stars": 493,
+                "stars": 501,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:29:14.339Z"
@@ -1533,7 +1533,7 @@
                 "open_issues": 0,
                 "owner": "snoopysecurity",
                 "repo": "dvws-node",
-                "stars": 517,
+                "stars": 518,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:29:14.339Z"
@@ -1686,7 +1686,7 @@
             "open_issues": 52,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21185,
+            "stars": 21188,
             "topics": [
               "docker",
               "docker-compose",
@@ -1744,7 +1744,7 @@
             "open_issues": 3,
             "owner": "dolevf",
             "repo": "Damn-Vulnerable-GraphQL-Application",
-            "stars": 1706,
+            "stars": 1708,
             "topics": [
               "damn-vulnerable",
               "damn-vulnerable-web-application",
@@ -1774,7 +1774,7 @@
             "open_issues": 1,
             "owner": "stephenbradshaw",
             "repo": "vulnserver",
-            "stars": 1133,
+            "stars": 1134,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -2185,7 +2185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:39:58.516Z",
+    "last_updated": "2026-09-01T10:12:54.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulnerable Applications",
@@ -2197,7 +2197,7 @@
       "open_issues": 3,
       "owner": "vavkamil",
       "repo": "awesome-vulnerable-apps",
-      "stars": 1475,
+      "stars": 1476,
       "topics": [
         "awesome",
         "awesome-list",
