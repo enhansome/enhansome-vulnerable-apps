@@ -19,7 +19,7 @@
             "open_issues": 52,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21195,
+            "stars": 21197,
             "topics": [
               "docker",
               "docker-compose",
@@ -114,7 +114,7 @@
             "open_issues": 24,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3714,
+            "stars": 3715,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -156,7 +156,7 @@
             "open_issues": 61,
             "owner": "bridgecrewio",
             "repo": "terragoat",
-            "stars": 1304,
+            "stars": 1303,
             "topics": [
               "aws-security",
               "azure-security",
@@ -227,7 +227,7 @@
             "open_issues": 0,
             "owner": "BishopFox",
             "repo": "iam-vulnerable",
-            "stars": 590,
+            "stars": 591,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -290,7 +290,7 @@
             "open_issues": 11,
             "owner": "bridgecrewio",
             "repo": "cfngoat",
-            "stars": 100,
+            "stars": 101,
             "topics": [
               "aws-security",
               "cloudformation",
@@ -757,11 +757,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T15:21:01Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-02T16:41:40Z",
+            "open_issues": 7,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13763,
+            "stars": 13776,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -797,7 +797,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13586,
+            "stars": 13592,
             "topics": [
               "dvwa",
               "hacking",
@@ -826,7 +826,7 @@
             "open_issues": 40,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9316,
+            "stars": 9317,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -876,7 +876,7 @@
             "open_issues": 31,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1567,
+            "stars": 1568,
             "topics": [
               "api",
               "apisecurity",
@@ -902,7 +902,7 @@
             "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1514,
+            "stars": 1513,
             "topics": [
               "10",
               "application",
@@ -1002,8 +1002,8 @@
             "id": 206928287,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T06:00:16Z",
-            "open_issues": 115,
+            "last_commit": "2026-09-03T06:49:44Z",
+            "open_issues": 117,
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
             "stars": 459,
@@ -1474,7 +1474,7 @@
                 "open_issues": 0,
                 "owner": "AlexGoOn",
                 "repo": "the-most-vulnerable-dotnet-app",
-                "stars": 514,
+                "stars": 519,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:29:14.339Z"
@@ -1533,7 +1533,7 @@
                 "open_issues": 0,
                 "owner": "snoopysecurity",
                 "repo": "dvws-node",
-                "stars": 518,
+                "stars": 519,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:29:14.339Z"
@@ -1686,7 +1686,7 @@
             "open_issues": 52,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21195,
+            "stars": 21197,
             "topics": [
               "docker",
               "docker-compose",
@@ -1713,7 +1713,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2298,
+            "stars": 2297,
             "topics": [
               "appsec",
               "cicd",
@@ -1816,7 +1816,7 @@
             "open_issues": 0,
             "owner": "OWASP",
             "repo": "OWASP-VWAD",
-            "stars": 887,
+            "stars": 885,
             "topics": [
               "appsec",
               "owasp",
@@ -1843,7 +1843,7 @@
             "open_issues": 21,
             "owner": "step-security",
             "repo": "github-actions-goat",
-            "stars": 517,
+            "stars": 518,
             "topics": [
               "actions",
               "attack-simulation",
@@ -1913,7 +1913,7 @@
             "open_issues": 0,
             "owner": "Plazmaz",
             "repo": "leaky-repo",
-            "stars": 250,
+            "stars": 251,
             "topics": [
               "benchmark",
               "entropy",
@@ -2185,7 +2185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T09:42:55.143Z",
+    "last_updated": "2026-09-03T09:55:39.486Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulnerable Applications",
