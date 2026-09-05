@@ -19,7 +19,7 @@
             "open_issues": 52,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21201,
+            "stars": 21206,
             "topics": [
               "docker",
               "docker-compose",
@@ -43,10 +43,10 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2025-02-13T14:49:38Z",
-            "open_issues": 74,
+            "open_issues": 75,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5693,
+            "stars": 5694,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -114,7 +114,7 @@
             "open_issues": 24,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3716,
+            "stars": 3718,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -135,7 +135,7 @@
             "open_issues": 12,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2044,
+            "stars": 2045,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -185,7 +185,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 962,
+            "stars": 963,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -206,7 +206,7 @@
             "open_issues": 9,
             "owner": "nccgroup",
             "repo": "sadcloud",
-            "stars": 790,
+            "stars": 789,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -758,10 +758,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-04T08:13:43Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13784,
+            "stars": 13787,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -797,7 +797,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13601,
+            "stars": 13604,
             "topics": [
               "dvwa",
               "hacking",
@@ -826,7 +826,7 @@
             "open_issues": 40,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9318,
+            "stars": 9319,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -847,7 +847,7 @@
             "open_issues": 6,
             "owner": "s4n7h0",
             "repo": "xvwa",
-            "stars": 1763,
+            "stars": 1764,
             "topics": [
               "application-security",
               "knowledge",
@@ -1002,7 +1002,7 @@
             "id": 206928287,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T07:05:44Z",
+            "last_commit": "2026-09-05T06:56:01Z",
             "open_issues": 115,
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
@@ -1112,8 +1112,8 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T09:35:01Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-04T23:24:32Z",
+            "open_issues": 22,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 42,
@@ -1474,7 +1474,7 @@
                 "open_issues": 0,
                 "owner": "AlexGoOn",
                 "repo": "the-most-vulnerable-dotnet-app",
-                "stars": 521,
+                "stars": 523,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:29:14.339Z"
@@ -1603,7 +1603,7 @@
                 "open_issues": 2,
                 "owner": "OWASP",
                 "repo": "IoTGoat",
-                "stars": 928,
+                "stars": 930,
                 "topics": [
                   "embedded-linux",
                   "firmware",
@@ -1686,7 +1686,7 @@
             "open_issues": 52,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21201,
+            "stars": 21206,
             "topics": [
               "docker",
               "docker-compose",
@@ -1744,7 +1744,7 @@
             "open_issues": 3,
             "owner": "dolevf",
             "repo": "Damn-Vulnerable-GraphQL-Application",
-            "stars": 1708,
+            "stars": 1709,
             "topics": [
               "damn-vulnerable",
               "damn-vulnerable-web-application",
@@ -2185,7 +2185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T09:44:10.547Z",
+    "last_updated": "2026-09-05T09:09:14.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulnerable Applications",
@@ -2197,7 +2197,7 @@
       "open_issues": 3,
       "owner": "vavkamil",
       "repo": "awesome-vulnerable-apps",
-      "stars": 1477,
+      "stars": 1478,
       "topics": [
         "awesome",
         "awesome-list",
