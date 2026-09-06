@@ -19,7 +19,7 @@
             "open_issues": 52,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21206,
+            "stars": 21209,
             "topics": [
               "docker",
               "docker-compose",
@@ -46,7 +46,7 @@
             "open_issues": 75,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5694,
+            "stars": 5693,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -73,7 +73,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5770,
+            "stars": 5771,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -185,7 +185,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 963,
+            "stars": 964,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -469,7 +469,7 @@
             "open_issues": 0,
             "owner": "B3nac",
             "repo": "InjuredAndroid",
-            "stars": 763,
+            "stars": 762,
             "topics": [
               "android",
               "android-security",
@@ -757,11 +757,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T08:13:43Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-05T15:07:15Z",
+            "open_issues": 6,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13787,
+            "stars": 13791,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -797,7 +797,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13604,
+            "stars": 13611,
             "topics": [
               "dvwa",
               "hacking",
@@ -822,11 +822,11 @@
             "id": 31771754,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T09:53:13Z",
-            "open_issues": 40,
+            "last_commit": "2026-09-06T06:54:50Z",
+            "open_issues": 36,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9319,
+            "stars": 9320,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -1002,7 +1002,7 @@
             "id": 206928287,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T06:56:01Z",
+            "last_commit": "2026-09-06T06:43:02Z",
             "open_issues": 115,
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
@@ -1112,8 +1112,8 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T23:24:32Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-06T04:20:30Z",
+            "open_issues": 20,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 42,
@@ -1603,7 +1603,7 @@
                 "open_issues": 2,
                 "owner": "OWASP",
                 "repo": "IoTGoat",
-                "stars": 930,
+                "stars": 931,
                 "topics": [
                   "embedded-linux",
                   "firmware",
@@ -1686,7 +1686,7 @@
             "open_issues": 52,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21206,
+            "stars": 21209,
             "topics": [
               "docker",
               "docker-compose",
@@ -1713,7 +1713,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2298,
+            "stars": 2299,
             "topics": [
               "appsec",
               "cicd",
@@ -1843,7 +1843,7 @@
             "open_issues": 21,
             "owner": "step-security",
             "repo": "github-actions-goat",
-            "stars": 518,
+            "stars": 519,
             "topics": [
               "actions",
               "attack-simulation",
@@ -2185,7 +2185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T09:09:14.023Z",
+    "last_updated": "2026-09-06T09:30:54.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulnerable Applications",
@@ -2197,7 +2197,7 @@
       "open_issues": 3,
       "owner": "vavkamil",
       "repo": "awesome-vulnerable-apps",
-      "stars": 1478,
+      "stars": 1479,
       "topics": [
         "awesome",
         "awesome-list",
