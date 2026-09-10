@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21225,
+            "stars": 21228,
             "topics": [
               "docker",
               "docker-compose",
@@ -46,7 +46,7 @@
             "open_issues": 75,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5701,
+            "stars": 5702,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -312,7 +312,7 @@
             "id": 382016768,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T13:29:39Z",
+            "last_commit": "2026-09-10T05:08:15Z",
             "open_issues": 19,
             "owner": "dynatrace-oss",
             "repo": "unguard",
@@ -539,7 +539,7 @@
             "open_issues": 1,
             "owner": "oversecured",
             "repo": "ovaa",
-            "stars": 756,
+            "stars": 757,
             "topics": [
               "android-security",
               "appsec",
@@ -566,7 +566,7 @@
             "open_issues": 2,
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 424,
+            "stars": 425,
             "topics": [
               "android",
               "bugbounty",
@@ -757,11 +757,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T14:31:01Z",
+            "last_commit": "2026-09-09T13:06:53Z",
             "open_issues": 6,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13827,
+            "stars": 13834,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -797,7 +797,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13631,
+            "stars": 13638,
             "topics": [
               "dvwa",
               "hacking",
@@ -822,11 +822,11 @@
             "id": 31771754,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T09:52:58Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-10T06:01:45Z",
+            "open_issues": 35,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9326,
+            "stars": 9329,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -876,7 +876,7 @@
             "open_issues": 30,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1573,
+            "stars": 1575,
             "topics": [
               "api",
               "apisecurity",
@@ -902,7 +902,7 @@
             "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1514,
+            "stars": 1515,
             "topics": [
               "10",
               "application",
@@ -935,7 +935,7 @@
             "open_issues": 4,
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1319,
+            "stars": 1321,
             "topics": [
               "api",
               "api-rest",
@@ -1002,8 +1002,8 @@
             "id": 206928287,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T07:09:26Z",
-            "open_issues": 107,
+            "last_commit": "2026-09-10T06:06:44Z",
+            "open_issues": 109,
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
             "stars": 461,
@@ -1112,8 +1112,8 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T09:45:42Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-09T13:07:26Z",
+            "open_issues": 18,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 43,
@@ -1273,7 +1273,7 @@
                 "open_issues": 3,
                 "owner": "incredibleindishell",
                 "repo": "SSRF_Vulnerable_Lab",
-                "stars": 791,
+                "stars": 792,
                 "topics": [
                   "attack",
                   "exploitation",
@@ -1502,7 +1502,7 @@
                 "open_issues": 16,
                 "owner": "appsecco",
                 "repo": "dvna",
-                "stars": 779,
+                "stars": 778,
                 "topics": [
                   "dvna",
                   "hack",
@@ -1686,7 +1686,7 @@
             "open_issues": 53,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21225,
+            "stars": 21228,
             "topics": [
               "docker",
               "docker-compose",
@@ -1744,7 +1744,7 @@
             "open_issues": 3,
             "owner": "dolevf",
             "repo": "Damn-Vulnerable-GraphQL-Application",
-            "stars": 1711,
+            "stars": 1712,
             "topics": [
               "damn-vulnerable",
               "damn-vulnerable-web-application",
@@ -2185,7 +2185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T09:52:39.144Z",
+    "last_updated": "2026-09-10T09:50:20.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulnerable Applications",
