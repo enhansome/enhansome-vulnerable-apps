@@ -19,7 +19,7 @@
             "open_issues": 54,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21233,
+            "stars": 21235,
             "topics": [
               "docker",
               "docker-compose",
@@ -46,7 +46,7 @@
             "open_issues": 74,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5704,
+            "stars": 5705,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -73,7 +73,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5775,
+            "stars": 5779,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -114,7 +114,7 @@
             "open_issues": 24,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3727,
+            "stars": 3729,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -135,7 +135,7 @@
             "open_issues": 12,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2046,
+            "stars": 2047,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -185,7 +185,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 964,
+            "stars": 965,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -761,7 +761,7 @@
             "open_issues": 8,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13847,
+            "stars": 13852,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -797,7 +797,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13654,
+            "stars": 13660,
             "topics": [
               "dvwa",
               "hacking",
@@ -822,11 +822,11 @@
             "id": 31771754,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T15:02:37Z",
-            "open_issues": 35,
+            "last_commit": "2026-09-13T07:12:23Z",
+            "open_issues": 36,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9331,
+            "stars": 9335,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -876,7 +876,7 @@
             "open_issues": 30,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1577,
+            "stars": 1578,
             "topics": [
               "api",
               "apisecurity",
@@ -935,7 +935,7 @@
             "open_issues": 4,
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1323,
+            "stars": 1325,
             "topics": [
               "api",
               "api-rest",
@@ -961,7 +961,7 @@
             "open_issues": 1,
             "owner": "stamparm",
             "repo": "DSVW",
-            "stars": 879,
+            "stars": 880,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -1002,8 +1002,8 @@
             "id": 206928287,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T06:51:14Z",
-            "open_issues": 109,
+            "last_commit": "2026-09-13T07:13:38Z",
+            "open_issues": 107,
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
             "stars": 461,
@@ -1603,7 +1603,7 @@
                 "open_issues": 2,
                 "owner": "OWASP",
                 "repo": "IoTGoat",
-                "stars": 930,
+                "stars": 932,
                 "topics": [
                   "embedded-linux",
                   "firmware",
@@ -1686,7 +1686,7 @@
             "open_issues": 54,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21233,
+            "stars": 21235,
             "topics": [
               "docker",
               "docker-compose",
@@ -1774,7 +1774,7 @@
             "open_issues": 1,
             "owner": "stephenbradshaw",
             "repo": "vulnserver",
-            "stars": 1131,
+            "stars": 1130,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -2185,7 +2185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:26:37.478Z",
+    "last_updated": "2026-09-13T10:22:33.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulnerable Applications",
