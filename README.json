@@ -15,11 +15,11 @@
             "id": 87699760,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-09-11T11:33:07Z",
-            "open_issues": 54,
+            "last_commit": "2026-09-15T12:05:31Z",
+            "open_issues": 55,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21239,
+            "stars": 21241,
             "topics": [
               "docker",
               "docker-compose",
@@ -73,7 +73,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5783,
+            "stars": 5784,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -185,7 +185,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 965,
+            "stars": 966,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -206,7 +206,7 @@
             "open_issues": 9,
             "owner": "nccgroup",
             "repo": "sadcloud",
-            "stars": 790,
+            "stars": 792,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -469,7 +469,7 @@
             "open_issues": 0,
             "owner": "B3nac",
             "repo": "InjuredAndroid",
-            "stars": 762,
+            "stars": 763,
             "topics": [
               "android",
               "android-security",
@@ -566,7 +566,7 @@
             "open_issues": 2,
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 428,
+            "stars": 429,
             "topics": [
               "android",
               "bugbounty",
@@ -677,7 +677,7 @@
             "open_issues": 6,
             "owner": "RavikumarRamesh",
             "repo": "hpAndro1337",
-            "stars": 104,
+            "stars": 103,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -758,10 +758,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-14T14:14:41Z",
-            "open_issues": 8,
+            "open_issues": 10,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13866,
+            "stars": 13877,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -797,7 +797,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13667,
+            "stars": 13673,
             "topics": [
               "dvwa",
               "hacking",
@@ -826,7 +826,7 @@
             "open_issues": 37,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9337,
+            "stars": 9339,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -876,7 +876,7 @@
             "open_issues": 30,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1579,
+            "stars": 1582,
             "topics": [
               "api",
               "apisecurity",
@@ -935,7 +935,7 @@
             "open_issues": 4,
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1325,
+            "stars": 1326,
             "topics": [
               "api",
               "api-rest",
@@ -961,7 +961,7 @@
             "open_issues": 1,
             "owner": "stamparm",
             "repo": "DSVW",
-            "stars": 880,
+            "stars": 881,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -982,7 +982,7 @@
             "open_issues": 5,
             "owner": "Yavuzlar",
             "repo": "VulnLab",
-            "stars": 528,
+            "stars": 529,
             "topics": [
               "web-security",
               "web-security-lab"
@@ -1002,8 +1002,8 @@
             "id": 206928287,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T07:27:50Z",
-            "open_issues": 106,
+            "last_commit": "2026-09-16T07:23:30Z",
+            "open_issues": 104,
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
             "stars": 461,
@@ -1603,7 +1603,7 @@
                 "open_issues": 2,
                 "owner": "OWASP",
                 "repo": "IoTGoat",
-                "stars": 933,
+                "stars": 934,
                 "topics": [
                   "embedded-linux",
                   "firmware",
@@ -1682,11 +1682,11 @@
             "id": 87699760,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-09-11T11:33:07Z",
-            "open_issues": 54,
+            "last_commit": "2026-09-15T12:05:31Z",
+            "open_issues": 55,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21239,
+            "stars": 21241,
             "topics": [
               "docker",
               "docker-compose",
@@ -1774,7 +1774,7 @@
             "open_issues": 1,
             "owner": "stephenbradshaw",
             "repo": "vulnserver",
-            "stars": 1130,
+            "stars": 1131,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -1795,7 +1795,7 @@
             "open_issues": 0,
             "owner": "theowni",
             "repo": "Damn-Vulnerable-RESTaurant-API-Game",
-            "stars": 935,
+            "stars": 936,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -2111,7 +2111,7 @@
             "open_issues": 1,
             "owner": "sea-erkin",
             "repo": "log-snare",
-            "stars": 34,
+            "stars": 35,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -2185,7 +2185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T10:10:42.526Z",
+    "last_updated": "2026-09-16T10:02:55.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulnerable Applications",
