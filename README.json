@@ -15,11 +15,11 @@
             "id": 87699760,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-09-18T07:06:08Z",
-            "open_issues": 54,
+            "last_commit": "2026-09-18T17:56:42Z",
+            "open_issues": 53,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21248,
+            "stars": 21250,
             "topics": [
               "docker",
               "docker-compose",
@@ -73,7 +73,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5786,
+            "stars": 5789,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -156,7 +156,7 @@
             "open_issues": 62,
             "owner": "bridgecrewio",
             "repo": "terragoat",
-            "stars": 1305,
+            "stars": 1306,
             "topics": [
               "aws-security",
               "azure-security",
@@ -646,7 +646,7 @@
             "open_issues": 0,
             "owner": "ant4g0nist",
             "repo": "Vulnerable-Kext",
-            "stars": 239,
+            "stars": 240,
             "topics": [
               "driver",
               "exploit-development",
@@ -757,11 +757,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T09:04:33Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-18T14:50:46Z",
+            "open_issues": 14,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13891,
+            "stars": 13893,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -797,7 +797,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13683,
+            "stars": 13687,
             "topics": [
               "dvwa",
               "hacking",
@@ -826,7 +826,7 @@
             "open_issues": 38,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9340,
+            "stars": 9343,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -847,7 +847,7 @@
             "open_issues": 6,
             "owner": "s4n7h0",
             "repo": "xvwa",
-            "stars": 1764,
+            "stars": 1765,
             "topics": [
               "application-security",
               "knowledge",
@@ -876,7 +876,7 @@
             "open_issues": 30,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1585,
+            "stars": 1586,
             "topics": [
               "api",
               "apisecurity",
@@ -982,7 +982,7 @@
             "open_issues": 5,
             "owner": "Yavuzlar",
             "repo": "VulnLab",
-            "stars": 529,
+            "stars": 530,
             "topics": [
               "web-security",
               "web-security-lab"
@@ -1002,8 +1002,8 @@
             "id": 206928287,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T06:05:34Z",
-            "open_issues": 104,
+            "last_commit": "2026-09-19T07:23:18Z",
+            "open_issues": 105,
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
             "stars": 462,
@@ -1091,7 +1091,7 @@
             "id": 163279298,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-14T14:27:46Z",
+            "last_commit": "2026-09-18T19:52:14Z",
             "open_issues": 0,
             "owner": "RamadhanAmizudin",
             "repo": "lazyweb",
@@ -1112,8 +1112,8 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T21:59:26Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-18T22:36:05Z",
+            "open_issues": 20,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 45,
@@ -1273,7 +1273,7 @@
                 "open_issues": 3,
                 "owner": "incredibleindishell",
                 "repo": "SSRF_Vulnerable_Lab",
-                "stars": 792,
+                "stars": 793,
                 "topics": [
                   "attack",
                   "exploitation",
@@ -1502,7 +1502,7 @@
                 "open_issues": 16,
                 "owner": "appsecco",
                 "repo": "dvna",
-                "stars": 778,
+                "stars": 779,
                 "topics": [
                   "dvna",
                   "hack",
@@ -1603,7 +1603,7 @@
                 "open_issues": 2,
                 "owner": "OWASP",
                 "repo": "IoTGoat",
-                "stars": 936,
+                "stars": 937,
                 "topics": [
                   "embedded-linux",
                   "firmware",
@@ -1682,11 +1682,11 @@
             "id": 87699760,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-09-18T07:06:08Z",
-            "open_issues": 54,
+            "last_commit": "2026-09-18T17:56:42Z",
+            "open_issues": 53,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21248,
+            "stars": 21250,
             "topics": [
               "docker",
               "docker-compose",
@@ -1713,7 +1713,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2303,
+            "stars": 2304,
             "topics": [
               "appsec",
               "cicd",
@@ -2185,7 +2185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T09:53:00.281Z",
+    "last_updated": "2026-09-19T09:35:49.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulnerable Applications",
@@ -2197,7 +2197,7 @@
       "open_issues": 3,
       "owner": "vavkamil",
       "repo": "awesome-vulnerable-apps",
-      "stars": 1481,
+      "stars": 1482,
       "topics": [
         "awesome",
         "awesome-list",
