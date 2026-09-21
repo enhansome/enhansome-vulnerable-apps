@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21253,
+            "stars": 21259,
             "topics": [
               "docker",
               "docker-compose",
@@ -46,7 +46,7 @@
             "open_issues": 74,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5710,
+            "stars": 5711,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -757,11 +757,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T14:50:46Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-21T10:11:03Z",
+            "open_issues": 9,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13901,
+            "stars": 13912,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -797,7 +797,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13692,
+            "stars": 13701,
             "topics": [
               "dvwa",
               "hacking",
@@ -822,11 +822,11 @@
             "id": 31771754,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T21:57:29Z",
-            "open_issues": 38,
+            "last_commit": "2026-09-21T09:53:07Z",
+            "open_issues": 41,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9343,
+            "stars": 9344,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -876,7 +876,7 @@
             "open_issues": 30,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1589,
+            "stars": 1590,
             "topics": [
               "api",
               "apisecurity",
@@ -935,7 +935,7 @@
             "open_issues": 4,
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1328,
+            "stars": 1329,
             "topics": [
               "api",
               "api-rest",
@@ -1002,11 +1002,11 @@
             "id": 206928287,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T07:35:29Z",
-            "open_issues": 106,
+            "last_commit": "2026-09-21T07:30:27Z",
+            "open_issues": 107,
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
-            "stars": 462,
+            "stars": 463,
             "topics": [
               "appsec",
               "benchmark",
@@ -1112,7 +1112,7 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T07:43:59Z",
+            "last_commit": "2026-09-20T19:59:27Z",
             "open_issues": 20,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
@@ -1686,7 +1686,7 @@
             "open_issues": 53,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21253,
+            "stars": 21259,
             "topics": [
               "docker",
               "docker-compose",
@@ -1816,7 +1816,7 @@
             "open_issues": 0,
             "owner": "OWASP",
             "repo": "OWASP-VWAD",
-            "stars": 885,
+            "stars": 884,
             "topics": [
               "appsec",
               "owasp",
@@ -2185,7 +2185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T09:51:57.749Z",
+    "last_updated": "2026-09-21T10:49:52.491Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulnerable Applications",
@@ -2194,10 +2194,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-15T08:31:49Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "vavkamil",
       "repo": "awesome-vulnerable-apps",
-      "stars": 1483,
+      "stars": 1484,
       "topics": [
         "awesome",
         "awesome-list",
