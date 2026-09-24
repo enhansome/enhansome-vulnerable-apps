@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21266,
+            "stars": 21271,
             "topics": [
               "docker",
               "docker-compose",
@@ -46,7 +46,7 @@
             "open_issues": 74,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5712,
+            "stars": 5714,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -73,7 +73,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5791,
+            "stars": 5793,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -114,7 +114,7 @@
             "open_issues": 23,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3734,
+            "stars": 3735,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -492,6 +492,33 @@
         },
         {
           "node_type": "item",
+          "title": "OVAA",
+          "description": "Oversecured Vulnerable Android App.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Oversecured Vulnerable Android App",
+            "homepage": "https://oversecured.com",
+            "id": 256492557,
+            "language": "Java",
+            "license": "BSD-2-Clause",
+            "last_commit": "2024-07-18T00:33:14Z",
+            "open_issues": 2,
+            "owner": "oversecured",
+            "repo": "ovaa",
+            "stars": 759,
+            "topics": [
+              "android-security",
+              "appsec",
+              "mobile-security",
+              "vulnerable-android-apps",
+              "vulnerable-application"
+            ]
+          },
+          "first_seen": "2026-08-28T17:29:14.339Z"
+        },
+        {
+          "node_type": "item",
           "title": "Damn Vulnerable Bank",
           "description": "Damn Vulnerable Bank is designed to be an intentionally vulnerable android application.",
           "children": [],
@@ -517,33 +544,6 @@
               "infosec",
               "pentesting",
               "security",
-              "vulnerable-android-apps",
-              "vulnerable-application"
-            ]
-          },
-          "first_seen": "2026-08-28T17:29:14.339Z"
-        },
-        {
-          "node_type": "item",
-          "title": "OVAA",
-          "description": "Oversecured Vulnerable Android App.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Oversecured Vulnerable Android App",
-            "homepage": "https://oversecured.com",
-            "id": 256492557,
-            "language": "Java",
-            "license": "BSD-2-Clause",
-            "last_commit": "2024-07-18T00:33:14Z",
-            "open_issues": 2,
-            "owner": "oversecured",
-            "repo": "ovaa",
-            "stars": 758,
-            "topics": [
-              "android-security",
-              "appsec",
-              "mobile-security",
               "vulnerable-android-apps",
               "vulnerable-application"
             ]
@@ -712,6 +712,48 @@
         },
         {
           "node_type": "item",
+          "title": "DVMA",
+          "description": "Damn Vulnerable Mobile App, an intentionally vulnerable Flutter app for Android and iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Damn Vulnerable Mobile App - a single Flutter codebase that builds real native iOS & Android binaries with 200+ intentionally-vulnerable modules mapped to OWASP MASVS/MASTG, Mobile Top 10, CWE, plus LLM & Agentic AI Top 10. For mobile security training, pentest practice, and scanner validation.",
+            "homepage": "https://cpeoples.github.io/dvma/",
+            "id": 1360628525,
+            "language": "Dart",
+            "license": "MIT",
+            "last_commit": "2026-09-23T23:45:03Z",
+            "open_issues": 0,
+            "owner": "cpeoples",
+            "repo": "dvma",
+            "stars": 2,
+            "topics": [
+              "agentic-ai",
+              "ai-security",
+              "android",
+              "appsec",
+              "ctf",
+              "cwe",
+              "dart",
+              "flutter",
+              "ios",
+              "llm-security",
+              "mastg",
+              "masvs",
+              "mobile-security",
+              "owasp",
+              "owasp-mobile-top-10",
+              "penetration-testing",
+              "pentesting",
+              "security",
+              "security-training",
+              "vulnerable-app"
+            ]
+          },
+          "first_seen": "2026-09-24T10:11:03.172Z"
+        },
+        {
+          "node_type": "item",
           "title": "VulnLab APK",
           "description": "Intentionally vulnerable Android app covering OWASP Mobile Top 10 classes with exploit commands and screenshots.",
           "children": [],
@@ -757,11 +799,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T05:55:09Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-23T19:26:19Z",
+            "open_issues": 9,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13929,
+            "stars": 13937,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -797,7 +839,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13713,
+            "stars": 13716,
             "topics": [
               "dvwa",
               "hacking",
@@ -822,11 +864,11 @@
             "id": 31771754,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T12:59:33Z",
-            "open_issues": 35,
+            "last_commit": "2026-09-24T08:28:51Z",
+            "open_issues": 33,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9347,
+            "stars": 9349,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -873,10 +915,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-09T03:43:56Z",
-            "open_issues": 30,
+            "open_issues": 31,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1588,
+            "stars": 1586,
             "topics": [
               "api",
               "apisecurity",
@@ -935,7 +977,7 @@
             "open_issues": 4,
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1329,
+            "stars": 1330,
             "topics": [
               "api",
               "api-rest",
@@ -961,7 +1003,7 @@
             "open_issues": 1,
             "owner": "stamparm",
             "repo": "DSVW",
-            "stars": 881,
+            "stars": 882,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -1002,8 +1044,8 @@
             "id": 206928287,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T07:13:48Z",
-            "open_issues": 97,
+            "last_commit": "2026-09-24T07:28:20Z",
+            "open_issues": 95,
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
             "stars": 463,
@@ -1112,8 +1154,8 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T23:25:37Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-24T08:04:40Z",
+            "open_issues": 16,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 45,
@@ -1273,7 +1315,7 @@
                 "open_issues": 3,
                 "owner": "incredibleindishell",
                 "repo": "SSRF_Vulnerable_Lab",
-                "stars": 792,
+                "stars": 793,
                 "topics": [
                   "attack",
                   "exploitation",
@@ -1603,7 +1645,7 @@
                 "open_issues": 2,
                 "owner": "OWASP",
                 "repo": "IoTGoat",
-                "stars": 937,
+                "stars": 938,
                 "topics": [
                   "embedded-linux",
                   "firmware",
@@ -1686,7 +1728,7 @@
             "open_issues": 53,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21266,
+            "stars": 21271,
             "topics": [
               "docker",
               "docker-compose",
@@ -1744,7 +1786,7 @@
             "open_issues": 3,
             "owner": "dolevf",
             "repo": "Damn-Vulnerable-GraphQL-Application",
-            "stars": 1712,
+            "stars": 1711,
             "topics": [
               "damn-vulnerable",
               "damn-vulnerable-web-application",
@@ -1774,7 +1816,7 @@
             "open_issues": 1,
             "owner": "stephenbradshaw",
             "repo": "vulnserver",
-            "stars": 1131,
+            "stars": 1132,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -1795,7 +1837,7 @@
             "open_issues": 0,
             "owner": "theowni",
             "repo": "Damn-Vulnerable-RESTaurant-API-Game",
-            "stars": 935,
+            "stars": 936,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -1807,13 +1849,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": ":warning: This repo is no longer in use. Please refer to https://github.com/OWASP/www-project-vulnerable-web-applications-directory",
+            "description": ":warning: This repo is no longer in use. Please refer to https://vwad.owasp.org",
             "homepage": "https://owasp.org/www-project-vulnerable-web-applications-directory/",
             "id": 13750564,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-07-20T03:22:30Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-24T00:29:53Z",
+            "open_issues": 1,
             "owner": "OWASP",
             "repo": "OWASP-VWAD",
             "stars": 884,
@@ -2185,7 +2227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T10:05:32.532Z",
+    "last_updated": "2026-09-24T10:11:03.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulnerable Applications",
@@ -2193,7 +2235,7 @@
       "id": 210446743,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-06-15T08:31:49Z",
+      "last_commit": "2026-09-24T00:43:32Z",
       "open_issues": 4,
       "owner": "vavkamil",
       "repo": "awesome-vulnerable-apps",
@@ -2210,7 +2252,7 @@
         "vulnerable-applications"
       ]
     },
-    "original_repository_sha": "d0c294ba921b2b0489355eb642325bf6820b5375",
+    "original_repository_sha": "80ce41ef747f1bb1cebae033efcf7b1b36bf04b7",
     "enhanced_repository": "enhansome/enhansome-vulnerable-apps",
     "enhanced_repository_description": null,
     "title": "Awesome Vulnerable Applications with stars"
