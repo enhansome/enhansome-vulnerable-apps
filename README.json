@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21307,
+            "stars": 21311,
             "topics": [
               "docker",
               "docker-compose",
@@ -73,7 +73,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5855,
+            "stars": 5871,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -552,8 +552,8 @@
         },
         {
           "node_type": "item",
-          "title": "Allsafe",
-          "description": "Allsafe is an intentionally vulnerable application that contains various vulnerabilities.",
+          "title": "Allsafe - Android",
+          "description": "An intentionally vulnerable Android application for learning Android application security.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -722,7 +722,7 @@
             "id": 1360628525,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-29T11:21:46Z",
+            "last_commit": "2026-10-02T08:04:38Z",
             "open_issues": 0,
             "owner": "cpeoples",
             "repo": "dvma",
@@ -803,7 +803,7 @@
             "open_issues": 5,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13993,
+            "stars": 13998,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -839,7 +839,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13751,
+            "stars": 13757,
             "topics": [
               "dvwa",
               "hacking",
@@ -868,7 +868,7 @@
             "open_issues": 44,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9378,
+            "stars": 9388,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -915,10 +915,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-09T03:43:56Z",
-            "open_issues": 32,
+            "open_issues": 31,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1588,
+            "stars": 1589,
             "topics": [
               "api",
               "apisecurity",
@@ -1044,7 +1044,7 @@
             "id": 206928287,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T08:09:43Z",
+            "last_commit": "2026-10-02T08:25:40Z",
             "open_issues": 96,
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
@@ -1728,7 +1728,7 @@
             "open_issues": 53,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21307,
+            "stars": 21311,
             "topics": [
               "docker",
               "docker-compose",
@@ -1816,7 +1816,7 @@
             "open_issues": 1,
             "owner": "stephenbradshaw",
             "repo": "vulnserver",
-            "stars": 1132,
+            "stars": 1133,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -2227,7 +2227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:40:48.838Z",
+    "last_updated": "2026-10-02T11:10:23.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulnerable Applications",
@@ -2235,8 +2235,8 @@
       "id": 210446743,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-01T08:08:42Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-01T15:47:08Z",
+      "open_issues": 1,
       "owner": "vavkamil",
       "repo": "awesome-vulnerable-apps",
       "stars": 1488,
@@ -2252,7 +2252,7 @@
         "vulnerable-applications"
       ]
     },
-    "original_repository_sha": "72347da74274ff77c1e2df4eb7255bdafeab21c1",
+    "original_repository_sha": "373fa8e37085cd6588438133b25982fb7c7a1d4f",
     "enhanced_repository": "enhansome/enhansome-vulnerable-apps",
     "enhanced_repository_description": null,
     "title": "Awesome Vulnerable Applications with stars"
