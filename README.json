@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Vulhub",
-          "description": null,
+          "description": "vulhub/vulhub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -46,7 +46,7 @@
             "open_issues": 74,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5725,
+            "stars": 5726,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -73,7 +73,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5871,
+            "stars": 5877,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -185,7 +185,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 968,
+            "stars": 967,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -448,7 +448,7 @@
             "open_issues": 13,
             "owner": "payatu",
             "repo": "diva-android",
-            "stars": 1147,
+            "stars": 1148,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -803,7 +803,7 @@
             "open_issues": 5,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13998,
+            "stars": 14009,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -839,7 +839,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13757,
+            "stars": 13759,
             "topics": [
               "dvwa",
               "hacking",
@@ -865,10 +865,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-28T09:53:13Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9388,
+            "stars": 9389,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -918,7 +918,7 @@
             "open_issues": 31,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1589,
+            "stars": 1590,
             "topics": [
               "api",
               "apisecurity",
@@ -944,7 +944,7 @@
             "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1526,
+            "stars": 1527,
             "topics": [
               "10",
               "application",
@@ -1044,11 +1044,11 @@
             "id": 206928287,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T08:25:40Z",
+            "last_commit": "2026-10-02T21:43:48Z",
             "open_issues": 96,
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
-            "stars": 467,
+            "stars": 468,
             "topics": [
               "appsec",
               "benchmark",
@@ -1516,7 +1516,7 @@
                 "open_issues": 0,
                 "owner": "AlexGoOn",
                 "repo": "the-most-vulnerable-dotnet-app",
-                "stars": 526,
+                "stars": 527,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:29:14.339Z"
@@ -1675,7 +1675,7 @@
                 "open_issues": 6,
                 "owner": "praetorian-inc",
                 "repo": "DVRF",
-                "stars": 721,
+                "stars": 720,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:29:14.339Z"
@@ -1755,7 +1755,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2311,
+            "stars": 2312,
             "topics": [
               "appsec",
               "cicd",
@@ -1786,7 +1786,7 @@
             "open_issues": 3,
             "owner": "dolevf",
             "repo": "Damn-Vulnerable-GraphQL-Application",
-            "stars": 1714,
+            "stars": 1713,
             "topics": [
               "damn-vulnerable",
               "damn-vulnerable-web-application",
@@ -2227,7 +2227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:10:23.810Z",
+    "last_updated": "2026-10-03T05:12:21.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulnerable Applications",
@@ -2236,10 +2236,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-01T15:47:08Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "vavkamil",
       "repo": "awesome-vulnerable-apps",
-      "stars": 1488,
+      "stars": 1487,
       "topics": [
         "awesome",
         "awesome-list",
