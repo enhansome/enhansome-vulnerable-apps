@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21316,
+            "stars": 21322,
             "topics": [
               "docker",
               "docker-compose",
@@ -46,7 +46,7 @@
             "open_issues": 74,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5729,
+            "stars": 5731,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -73,7 +73,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5895,
+            "stars": 5898,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -110,8 +110,8 @@
             "id": 141209050,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-04-28T13:43:43Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-05T19:12:24Z",
+            "open_issues": 25,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
             "stars": 3749,
@@ -135,7 +135,7 @@
             "open_issues": 12,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2053,
+            "stars": 2052,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -185,7 +185,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 967,
+            "stars": 966,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -227,7 +227,7 @@
             "open_issues": 0,
             "owner": "BishopFox",
             "repo": "iam-vulnerable",
-            "stars": 591,
+            "stars": 590,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -448,7 +448,7 @@
             "open_issues": 13,
             "owner": "payatu",
             "repo": "diva-android",
-            "stars": 1149,
+            "stars": 1150,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -502,7 +502,7 @@
             "id": 256492557,
             "language": "Java",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-29T13:17:39Z",
+            "last_commit": "2026-10-06T07:33:56Z",
             "open_issues": 1,
             "owner": "oversecured",
             "repo": "ovaa",
@@ -533,7 +533,7 @@
             "open_issues": 4,
             "owner": "rewanthtammana",
             "repo": "Damn-Vulnerable-Bank",
-            "stars": 758,
+            "stars": 759,
             "topics": [
               "android",
               "android-security",
@@ -839,7 +839,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13771,
+            "stars": 13775,
             "topics": [
               "dvwa",
               "hacking",
@@ -864,11 +864,11 @@
             "id": 31771754,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T09:53:11Z",
-            "open_issues": 48,
+            "last_commit": "2026-10-06T10:41:05Z",
+            "open_issues": 35,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9391,
+            "stars": 9393,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -918,7 +918,7 @@
             "open_issues": 31,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1591,
+            "stars": 1592,
             "topics": [
               "api",
               "apisecurity",
@@ -977,7 +977,7 @@
             "open_issues": 4,
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1335,
+            "stars": 1337,
             "topics": [
               "api",
               "api-rest",
@@ -1044,7 +1044,7 @@
             "id": 206928287,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T08:18:32Z",
+            "last_commit": "2026-10-06T09:08:02Z",
             "open_issues": 96,
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
@@ -1154,11 +1154,11 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-04T04:22:33Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-05T14:37:54Z",
+            "open_issues": 17,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 49,
+            "stars": 50,
             "topics": [
               "appsec",
               "ctf",
@@ -1541,10 +1541,10 @@
                 "language": "HTML",
                 "license": "Apache-2.0",
                 "last_commit": "2024-06-15T01:20:40Z",
-                "open_issues": 118,
+                "open_issues": 117,
                 "owner": "OWASP",
                 "repo": "NodeGoat",
-                "stars": 2069,
+                "stars": 2070,
                 "topics": [
                   "docker",
                   "heroku",
@@ -1758,7 +1758,7 @@
             "open_issues": 53,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21316,
+            "stars": 21322,
             "topics": [
               "docker",
               "docker-compose",
@@ -1832,6 +1832,27 @@
         },
         {
           "node_type": "item",
+          "title": "Damn Vulnerable Model Context Protocol (DVMCP)",
+          "description": "An intentionally vulnerable MCP implementation with 10 challenges for learning MCP security, including prompt injection, tool poisoning, and token theft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Damn Vulnerable MCP Server",
+            "homepage": null,
+            "id": 967232951,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-12-08T00:14:14Z",
+            "open_issues": 24,
+            "owner": "harishsg993010",
+            "repo": "damn-vulnerable-MCP-server",
+            "stars": 1357,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T11:01:12.849Z"
+        },
+        {
+          "node_type": "item",
           "title": "Vulnserver",
           "description": "Vulnerable server used for learning software exploitation",
           "children": [],
@@ -1846,7 +1867,7 @@
             "open_issues": 1,
             "owner": "stephenbradshaw",
             "repo": "vulnserver",
-            "stars": 1133,
+            "stars": 1134,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -2078,7 +2099,7 @@
             "open_issues": 1,
             "owner": "srini0x00",
             "repo": "dvta",
-            "stars": 183,
+            "stars": 182,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -2257,7 +2278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T12:22:30.068Z",
+    "last_updated": "2026-10-06T11:01:12.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulnerable Applications",
@@ -2265,8 +2286,8 @@
       "id": 210446743,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-04T09:18:14Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-05T18:22:56Z",
+      "open_issues": 0,
       "owner": "vavkamil",
       "repo": "awesome-vulnerable-apps",
       "stars": 1487,
@@ -2282,7 +2303,7 @@
         "vulnerable-applications"
       ]
     },
-    "original_repository_sha": "6510d8622fdc1371d5b9a0c11fe50d39ff5d6630",
+    "original_repository_sha": "e27508939154b5b81b400315d651758d3dd7d63e",
     "enhanced_repository": "enhansome/enhansome-vulnerable-apps",
     "enhanced_repository_description": null,
     "title": "Awesome Vulnerable Applications with stars"
