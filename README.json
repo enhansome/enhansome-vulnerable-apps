@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21322,
+            "stars": 21320,
             "topics": [
               "docker",
               "docker-compose",
@@ -46,7 +46,7 @@
             "open_issues": 74,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5731,
+            "stars": 5734,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -73,7 +73,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5898,
+            "stars": 5905,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -110,11 +110,11 @@
             "id": 141209050,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-05T19:12:24Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-06T14:45:09Z",
+            "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3749,
+            "stars": 3751,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -248,7 +248,7 @@
             "open_issues": 4,
             "owner": "tenable",
             "repo": "cnappgoat",
-            "stars": 297,
+            "stars": 298,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -566,7 +566,7 @@
             "open_issues": 2,
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 434,
+            "stars": 436,
             "topics": [
               "android",
               "bugbounty",
@@ -799,11 +799,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-04T16:41:52Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-07T08:06:18Z",
+            "open_issues": 5,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14026,
+            "stars": 14032,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -836,10 +836,10 @@
             "language": "PHP",
             "license": "GPL-3.0",
             "last_commit": "2026-10-05T07:35:00Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13775,
+            "stars": 13778,
             "topics": [
               "dvwa",
               "hacking",
@@ -864,11 +864,11 @@
             "id": 31771754,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T12:00:03Z",
-            "open_issues": 35,
+            "last_commit": "2026-10-07T07:12:55Z",
+            "open_issues": 32,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9393,
+            "stars": 9394,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -1044,8 +1044,8 @@
             "id": 206928287,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T09:08:02Z",
-            "open_issues": 96,
+            "last_commit": "2026-10-07T08:34:55Z",
+            "open_issues": 97,
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
             "stars": 470,
@@ -1544,7 +1544,7 @@
                 "open_issues": 117,
                 "owner": "OWASP",
                 "repo": "NodeGoat",
-                "stars": 2070,
+                "stars": 2073,
                 "topics": [
                   "docker",
                   "heroku",
@@ -1675,7 +1675,7 @@
                 "open_issues": 2,
                 "owner": "OWASP",
                 "repo": "IoTGoat",
-                "stars": 943,
+                "stars": 945,
                 "topics": [
                   "embedded-linux",
                   "firmware",
@@ -1758,7 +1758,7 @@
             "open_issues": 53,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21322,
+            "stars": 21320,
             "topics": [
               "docker",
               "docker-compose",
@@ -1888,7 +1888,7 @@
             "open_issues": 0,
             "owner": "theowni",
             "repo": "Damn-Vulnerable-RESTaurant-API-Game",
-            "stars": 939,
+            "stars": 940,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -2278,7 +2278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T12:05:32.312Z",
+    "last_updated": "2026-10-07T11:51:08.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulnerable Applications",
@@ -2287,7 +2287,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-05T18:22:56Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "vavkamil",
       "repo": "awesome-vulnerable-apps",
       "stars": 1487,
