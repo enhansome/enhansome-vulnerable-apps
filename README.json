@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21332,
+            "stars": 21338,
             "topics": [
               "docker",
               "docker-compose",
@@ -114,7 +114,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3752,
+            "stars": 3753,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -799,11 +799,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T22:31:51Z",
+            "last_commit": "2026-10-10T20:04:55Z",
             "open_issues": 4,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14056,
+            "stars": 14065,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -839,7 +839,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13802,
+            "stars": 13807,
             "topics": [
               "dvwa",
               "hacking",
@@ -864,11 +864,11 @@
             "id": 31771754,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T07:12:55Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-11T11:16:15Z",
+            "open_issues": 37,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9401,
+            "stars": 9404,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -918,7 +918,7 @@
             "open_issues": 31,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1600,
+            "stars": 1601,
             "topics": [
               "api",
               "apisecurity",
@@ -1044,11 +1044,11 @@
             "id": 206928287,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T07:57:59Z",
+            "last_commit": "2026-10-11T08:13:39Z",
             "open_issues": 98,
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
-            "stars": 470,
+            "stars": 471,
             "topics": [
               "appsec",
               "benchmark",
@@ -1137,7 +1137,7 @@
             "open_issues": 0,
             "owner": "RamadhanAmizudin",
             "repo": "lazyweb",
-            "stars": 132,
+            "stars": 131,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -1154,7 +1154,7 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T20:54:02Z",
+            "last_commit": "2026-10-11T10:32:28Z",
             "open_issues": 13,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
@@ -1758,7 +1758,7 @@
             "open_issues": 53,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21332,
+            "stars": 21338,
             "topics": [
               "docker",
               "docker-compose",
@@ -1846,7 +1846,7 @@
             "open_issues": 24,
             "owner": "harishsg993010",
             "repo": "damn-vulnerable-MCP-server",
-            "stars": 1356,
+            "stars": 1355,
             "topics": []
           },
           "first_seen": "2026-10-06T11:01:12.849Z"
@@ -1936,7 +1936,7 @@
             "open_issues": 21,
             "owner": "step-security",
             "repo": "github-actions-goat",
-            "stars": 520,
+            "stars": 521,
             "topics": [
               "actions",
               "attack-simulation",
@@ -2278,7 +2278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T11:14:27.288Z",
+    "last_updated": "2026-10-11T11:27:54.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulnerable Applications",
