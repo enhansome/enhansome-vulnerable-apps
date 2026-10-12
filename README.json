@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21338,
+            "stars": 21344,
             "topics": [
               "docker",
               "docker-compose",
@@ -114,7 +114,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3753,
+            "stars": 3754,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -135,7 +135,7 @@
             "open_issues": 12,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2052,
+            "stars": 2053,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -185,7 +185,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 966,
+            "stars": 964,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -427,7 +427,7 @@
             "open_issues": 17,
             "owner": "dineshshetty",
             "repo": "Android-InsecureBankv2",
-            "stars": 1479,
+            "stars": 1480,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -455,43 +455,6 @@
         },
         {
           "node_type": "item",
-          "title": "InjuredAndroid",
-          "description": "A vulnerable Android application that shows simple examples of vulnerabilities in a ctf style.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "A vulnerable Android application that shows simple examples of vulnerabilities in a ctf style.",
-            "homepage": null,
-            "id": 112266165,
-            "language": "Kotlin",
-            "license": "Apache-2.0",
-            "last_commit": "2021-06-25T04:04:14Z",
-            "open_issues": 0,
-            "owner": "B3nac",
-            "repo": "InjuredAndroid",
-            "stars": 763,
-            "topics": [
-              "android",
-              "android-security",
-              "android-studio",
-              "apk",
-              "bug-bounty",
-              "ctf",
-              "flutter",
-              "flutter-security",
-              "flutter-xss",
-              "kotlin",
-              "kotlin-android",
-              "pentesting",
-              "security-testing",
-              "vulnerabilities",
-              "webview"
-            ]
-          },
-          "first_seen": "2026-08-28T17:29:14.339Z"
-        },
-        {
-          "node_type": "item",
           "title": "OVAA",
           "description": "Oversecured Vulnerable Android App.",
           "children": [],
@@ -513,6 +476,43 @@
               "mobile-security",
               "vulnerable-android-apps",
               "vulnerable-application"
+            ]
+          },
+          "first_seen": "2026-08-28T17:29:14.339Z"
+        },
+        {
+          "node_type": "item",
+          "title": "InjuredAndroid",
+          "description": "A vulnerable Android application that shows simple examples of vulnerabilities in a ctf style.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "A vulnerable Android application that shows simple examples of vulnerabilities in a ctf style.",
+            "homepage": null,
+            "id": 112266165,
+            "language": "Kotlin",
+            "license": "Apache-2.0",
+            "last_commit": "2021-06-25T04:04:14Z",
+            "open_issues": 0,
+            "owner": "B3nac",
+            "repo": "InjuredAndroid",
+            "stars": 761,
+            "topics": [
+              "android",
+              "android-security",
+              "android-studio",
+              "apk",
+              "bug-bounty",
+              "ctf",
+              "flutter",
+              "flutter-security",
+              "flutter-xss",
+              "kotlin",
+              "kotlin-android",
+              "pentesting",
+              "security-testing",
+              "vulnerabilities",
+              "webview"
             ]
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -566,7 +566,7 @@
             "open_issues": 2,
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 438,
+            "stars": 439,
             "topics": [
               "android",
               "bugbounty",
@@ -799,11 +799,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T20:04:55Z",
+            "last_commit": "2026-10-12T05:07:12Z",
             "open_issues": 4,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14065,
+            "stars": 14071,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -839,7 +839,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13807,
+            "stars": 13814,
             "topics": [
               "dvwa",
               "hacking",
@@ -864,11 +864,11 @@
             "id": 31771754,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-11T11:16:15Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-12T06:52:06Z",
+            "open_issues": 32,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9404,
+            "stars": 9406,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -944,7 +944,7 @@
             "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1529,
+            "stars": 1530,
             "topics": [
               "10",
               "application",
@@ -977,7 +977,7 @@
             "open_issues": 4,
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1338,
+            "stars": 1339,
             "topics": [
               "api",
               "api-rest",
@@ -1044,8 +1044,8 @@
             "id": 206928287,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T08:13:39Z",
-            "open_issues": 98,
+            "last_commit": "2026-10-12T08:29:16Z",
+            "open_issues": 99,
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
             "stars": 471,
@@ -1315,7 +1315,7 @@
                 "open_issues": 4,
                 "owner": "incredibleindishell",
                 "repo": "SSRF_Vulnerable_Lab",
-                "stars": 795,
+                "stars": 796,
                 "topics": [
                   "attack",
                   "exploitation",
@@ -1758,7 +1758,7 @@
             "open_issues": 53,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21338,
+            "stars": 21344,
             "topics": [
               "docker",
               "docker-compose",
@@ -1867,7 +1867,7 @@
             "open_issues": 1,
             "owner": "stephenbradshaw",
             "repo": "vulnserver",
-            "stars": 1134,
+            "stars": 1135,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -2078,7 +2078,7 @@
             "open_issues": 3,
             "owner": "fuzzstati0n",
             "repo": "fuzzgoat",
-            "stars": 211,
+            "stars": 212,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -2278,7 +2278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T11:27:54.802Z",
+    "last_updated": "2026-10-12T13:16:57.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulnerable Applications",
