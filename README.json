@@ -15,11 +15,11 @@
             "id": 87699760,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-09-18T17:56:42Z",
-            "open_issues": 53,
+            "last_commit": "2026-10-14T03:47:08Z",
+            "open_issues": 54,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21350,
+            "stars": 21353,
             "topics": [
               "docker",
               "docker-compose",
@@ -46,7 +46,7 @@
             "open_issues": 73,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5741,
+            "stars": 5743,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -73,7 +73,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5908,
+            "stars": 5911,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -111,7 +111,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-06T14:45:09Z",
-            "open_issues": 21,
+            "open_issues": 23,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
             "stars": 3756,
@@ -156,7 +156,7 @@
             "open_issues": 62,
             "owner": "bridgecrewio",
             "repo": "terragoat",
-            "stars": 1306,
+            "stars": 1308,
             "topics": [
               "aws-security",
               "azure-security",
@@ -455,6 +455,39 @@
         },
         {
           "node_type": "item",
+          "title": "Damn Vulnerable Bank",
+          "description": "Damn Vulnerable Bank is designed to be an intentionally vulnerable android application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Damn Vulnerable Bank is designed to be an intentionally vulnerable android application. This provides an interface to assess your android application security hacking skills.",
+            "homepage": "https://rewanthtammana.com/damn-vulnerable-bank/",
+            "id": 294934346,
+            "language": "Java",
+            "license": "MIT",
+            "last_commit": "2023-12-13T07:48:44Z",
+            "open_issues": 4,
+            "owner": "rewanthtammana",
+            "repo": "Damn-Vulnerable-Bank",
+            "stars": 763,
+            "topics": [
+              "android",
+              "android-security",
+              "application-security",
+              "damn-vulnerable-bank",
+              "hacking",
+              "hacktoberfest",
+              "infosec",
+              "pentesting",
+              "security",
+              "vulnerable-android-apps",
+              "vulnerable-application"
+            ]
+          },
+          "first_seen": "2026-08-28T17:29:14.339Z"
+        },
+        {
+          "node_type": "item",
           "title": "OVAA",
           "description": "Oversecured Vulnerable Android App.",
           "children": [],
@@ -519,39 +552,6 @@
         },
         {
           "node_type": "item",
-          "title": "Damn Vulnerable Bank",
-          "description": "Damn Vulnerable Bank is designed to be an intentionally vulnerable android application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Damn Vulnerable Bank is designed to be an intentionally vulnerable android application. This provides an interface to assess your android application security hacking skills.",
-            "homepage": "https://rewanthtammana.com/damn-vulnerable-bank/",
-            "id": 294934346,
-            "language": "Java",
-            "license": "MIT",
-            "last_commit": "2023-12-13T07:48:44Z",
-            "open_issues": 4,
-            "owner": "rewanthtammana",
-            "repo": "Damn-Vulnerable-Bank",
-            "stars": 762,
-            "topics": [
-              "android",
-              "android-security",
-              "application-security",
-              "damn-vulnerable-bank",
-              "hacking",
-              "hacktoberfest",
-              "infosec",
-              "pentesting",
-              "security",
-              "vulnerable-android-apps",
-              "vulnerable-application"
-            ]
-          },
-          "first_seen": "2026-08-28T17:29:14.339Z"
-        },
-        {
-          "node_type": "item",
           "title": "Allsafe - Android",
           "description": "An intentionally vulnerable Android application for learning Android application security.",
           "children": [],
@@ -566,7 +566,7 @@
             "open_issues": 2,
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 440,
+            "stars": 441,
             "topics": [
               "android",
               "bugbounty",
@@ -803,7 +803,7 @@
             "open_issues": 4,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14080,
+            "stars": 14090,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -836,10 +836,10 @@
             "language": "PHP",
             "license": "GPL-3.0",
             "last_commit": "2026-10-07T14:10:48Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13825,
+            "stars": 13827,
             "topics": [
               "dvwa",
               "hacking",
@@ -918,7 +918,7 @@
             "open_issues": 31,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1603,
+            "stars": 1605,
             "topics": [
               "api",
               "apisecurity",
@@ -1044,8 +1044,8 @@
             "id": 206928287,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T09:34:58Z",
-            "open_issues": 100,
+            "last_commit": "2026-10-14T07:08:58Z",
+            "open_issues": 101,
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
             "stars": 472,
@@ -1351,7 +1351,7 @@
                 "open_issues": 3,
                 "owner": "incredibleindishell",
                 "repo": "CORS-vulnerable-Lab",
-                "stars": 189,
+                "stars": 188,
                 "topics": [
                   "cors",
                   "cors-vulnerability",
@@ -1544,7 +1544,7 @@
                 "open_issues": 118,
                 "owner": "OWASP",
                 "repo": "NodeGoat",
-                "stars": 2076,
+                "stars": 2077,
                 "topics": [
                   "docker",
                   "heroku",
@@ -1605,7 +1605,7 @@
                 "open_issues": 0,
                 "owner": "snoopysecurity",
                 "repo": "dvws-node",
-                "stars": 520,
+                "stars": 521,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:29:14.339Z"
@@ -1754,11 +1754,11 @@
             "id": 87699760,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-09-18T17:56:42Z",
-            "open_issues": 53,
+            "last_commit": "2026-10-14T03:47:08Z",
+            "open_issues": 54,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21350,
+            "stars": 21353,
             "topics": [
               "docker",
               "docker-compose",
@@ -1785,7 +1785,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2315,
+            "stars": 2317,
             "topics": [
               "appsec",
               "cicd",
@@ -1816,7 +1816,7 @@
             "open_issues": 3,
             "owner": "dolevf",
             "repo": "Damn-Vulnerable-GraphQL-Application",
-            "stars": 1714,
+            "stars": 1715,
             "topics": [
               "damn-vulnerable",
               "damn-vulnerable-web-application",
@@ -1846,7 +1846,7 @@
             "open_issues": 24,
             "owner": "harishsg993010",
             "repo": "damn-vulnerable-MCP-server",
-            "stars": 1355,
+            "stars": 1356,
             "topics": []
           },
           "first_seen": "2026-10-06T11:01:12.849Z"
@@ -1888,7 +1888,7 @@
             "open_issues": 0,
             "owner": "theowni",
             "repo": "Damn-Vulnerable-RESTaurant-API-Game",
-            "stars": 942,
+            "stars": 941,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -2278,7 +2278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:47:01.012Z",
+    "last_updated": "2026-10-14T10:19:36.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulnerable Applications",
@@ -2290,7 +2290,7 @@
       "open_issues": 1,
       "owner": "vavkamil",
       "repo": "awesome-vulnerable-apps",
-      "stars": 1494,
+      "stars": 1495,
       "topics": [
         "awesome",
         "awesome-list",
