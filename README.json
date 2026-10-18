@@ -15,11 +15,11 @@
             "id": 87699760,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-10-14T03:47:08Z",
-            "open_issues": 55,
+            "last_commit": "2026-10-17T20:59:41Z",
+            "open_issues": 54,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21363,
+            "stars": 21365,
             "topics": [
               "docker",
               "docker-compose",
@@ -46,7 +46,7 @@
             "open_issues": 73,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5744,
+            "stars": 5745,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -114,7 +114,7 @@
             "open_issues": 19,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3758,
+            "stars": 3760,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -156,7 +156,7 @@
             "open_issues": 62,
             "owner": "bridgecrewio",
             "repo": "terragoat",
-            "stars": 1313,
+            "stars": 1314,
             "topics": [
               "aws-security",
               "azure-security",
@@ -248,7 +248,7 @@
             "open_issues": 4,
             "owner": "tenable",
             "repo": "cnappgoat",
-            "stars": 301,
+            "stars": 302,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -722,11 +722,11 @@
             "id": 1360628525,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-14T11:46:36Z",
+            "last_commit": "2026-10-17T11:50:22Z",
             "open_issues": 0,
             "owner": "cpeoples",
             "repo": "dvma",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "agentic-ai",
               "ai-security",
@@ -799,11 +799,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T21:22:10Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-17T13:35:12Z",
+            "open_issues": 7,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14114,
+            "stars": 14123,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -839,7 +839,7 @@
             "open_issues": 8,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13855,
+            "stars": 13857,
             "topics": [
               "dvwa",
               "hacking",
@@ -865,10 +865,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-13T04:40:55Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9414,
+            "stars": 9416,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -915,7 +915,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-09T03:43:56Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "OWASP",
             "repo": "crAPI",
             "stars": 1608,
@@ -977,7 +977,7 @@
             "open_issues": 160,
             "owner": "OWASP",
             "repo": "SecurityShepherd",
-            "stars": 1462,
+            "stars": 1463,
             "topics": []
           },
           "first_seen": "2026-10-15T10:03:36.096Z"
@@ -1065,11 +1065,11 @@
             "id": 206928287,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T06:04:14Z",
-            "open_issues": 104,
+            "last_commit": "2026-10-18T07:23:21Z",
+            "open_issues": 106,
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
-            "stars": 472,
+            "stars": 473,
             "topics": [
               "appsec",
               "benchmark",
@@ -1775,11 +1775,11 @@
             "id": 87699760,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-10-14T03:47:08Z",
-            "open_issues": 55,
+            "last_commit": "2026-10-17T20:59:41Z",
+            "open_issues": 54,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21363,
+            "stars": 21365,
             "topics": [
               "docker",
               "docker-compose",
@@ -2120,7 +2120,7 @@
             "open_issues": 1,
             "owner": "srini0x00",
             "repo": "dvta",
-            "stars": 183,
+            "stars": 184,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T09:29:06.489Z",
+    "last_updated": "2026-10-18T09:42:37.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulnerable Applications",
