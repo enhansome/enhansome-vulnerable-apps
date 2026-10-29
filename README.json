@@ -46,7 +46,7 @@
             "open_issues": 73,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5764,
+            "stars": 5760,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -114,7 +114,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3764,
+            "stars": 3766,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -135,7 +135,7 @@
             "open_issues": 12,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2055,
+            "stars": 2057,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -227,7 +227,7 @@
             "open_issues": 0,
             "owner": "BishopFox",
             "repo": "iam-vulnerable",
-            "stars": 596,
+            "stars": 597,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -448,7 +448,7 @@
             "open_issues": 13,
             "owner": "payatu",
             "repo": "diva-android",
-            "stars": 1162,
+            "stars": 1161,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -604,7 +604,7 @@
             "open_issues": 2,
             "owner": "satishpatnayak",
             "repo": "AndroGoat",
-            "stars": 408,
+            "stars": 409,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -800,10 +800,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-26T21:54:46Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14269,
+            "stars": 14277,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -839,7 +839,7 @@
             "open_issues": 8,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13910,
+            "stars": 13916,
             "topics": [
               "dvwa",
               "hacking",
@@ -868,7 +868,7 @@
             "open_issues": 41,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9440,
+            "stars": 9441,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -973,11 +973,11 @@
             "id": 14259857,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T20:45:46Z",
-            "open_issues": 197,
+            "last_commit": "2026-10-29T10:21:06Z",
+            "open_issues": 202,
             "owner": "OWASP",
             "repo": "SecurityShepherd",
-            "stars": 1463,
+            "stars": 1464,
             "topics": []
           },
           "first_seen": "2026-10-15T10:03:36.096Z"
@@ -1065,11 +1065,11 @@
             "id": 206928287,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T08:09:37Z",
+            "last_commit": "2026-10-29T08:32:18Z",
             "open_issues": 110,
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
-            "stars": 476,
+            "stars": 479,
             "topics": [
               "appsec",
               "benchmark",
@@ -1336,7 +1336,7 @@
                 "open_issues": 4,
                 "owner": "incredibleindishell",
                 "repo": "SSRF_Vulnerable_Lab",
-                "stars": 797,
+                "stars": 799,
                 "topics": [
                   "attack",
                   "exploitation",
@@ -1565,7 +1565,7 @@
                 "open_issues": 119,
                 "owner": "OWASP",
                 "repo": "NodeGoat",
-                "stars": 2083,
+                "stars": 2086,
                 "topics": [
                   "docker",
                   "heroku",
@@ -1696,7 +1696,7 @@
                 "open_issues": 2,
                 "owner": "OWASP",
                 "repo": "IoTGoat",
-                "stars": 959,
+                "stars": 961,
                 "topics": [
                   "embedded-linux",
                   "firmware",
@@ -1837,7 +1837,7 @@
             "open_issues": 3,
             "owner": "dolevf",
             "repo": "Damn-Vulnerable-GraphQL-Application",
-            "stars": 1717,
+            "stars": 1718,
             "topics": [
               "damn-vulnerable",
               "damn-vulnerable-web-application",
@@ -1867,7 +1867,7 @@
             "open_issues": 24,
             "owner": "harishsg993010",
             "repo": "damn-vulnerable-MCP-server",
-            "stars": 1361,
+            "stars": 1362,
             "topics": []
           },
           "first_seen": "2026-10-06T11:01:12.849Z"
@@ -1930,7 +1930,7 @@
             "open_issues": 1,
             "owner": "OWASP",
             "repo": "OWASP-VWAD",
-            "stars": 882,
+            "stars": 881,
             "topics": [
               "appsec",
               "owasp",
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T11:25:32.609Z",
+    "last_updated": "2026-10-29T11:35:57.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulnerable Applications",
@@ -2311,7 +2311,7 @@
       "open_issues": 2,
       "owner": "vavkamil",
       "repo": "awesome-vulnerable-apps",
-      "stars": 1501,
+      "stars": 1502,
       "topics": [
         "awesome",
         "awesome-list",
