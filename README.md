@@ -54,23 +54,23 @@ Paid tranining courses
 
 ## Vulnerable VMs
 
-* [Vulhub](https://github.com/vulhub/vulhub) ⭐ 21,451 | 🐛 55 | 🌐 Dockerfile | 📅 2026-10-17
-* [Metasploitable3](https://github.com/rapid7/metasploitable3) ⭐ 5,774 | 🐛 73 | 🌐 HTML | 📅 2025-02-13 - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
+* [Vulhub](https://github.com/vulhub/vulhub) ⭐ 21,454 | 🐛 56 | 🌐 Dockerfile | 📅 2026-10-17
+* [Metasploitable3](https://github.com/rapid7/metasploitable3) ⭐ 5,775 | 🐛 73 | 🌐 HTML | 📅 2025-02-13 - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
 * [Hackmyvm.eu](https://hackmyvm.eu/)
 
 ## Cloud Security
 
-* [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) ⭐ 5,935 | 🐛 27 | 🌐 HTML | 📅 2026-04-16 - Kubernetes Goat is "Vulnerable by Design" Kubernetes Cluster. Designed to be an intentionally vulnerable cluster environment to learn and practice Kubernetes security.
-* [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) ⭐ 3,774 | 🐛 20 | 🌐 Python | 📅 2026-10-14 - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
-* [AWSGoat](https://github.com/ine-labs/AWSGoat) ⭐ 2,060 | 🐛 11 | 🌐 PHP | 📅 2026-11-04 - A Damn Vulnerable AWS Infrastructure
-* [TerraGoat - Vulnerable Terraform Infra](https://github.com/bridgecrewio/terragoat) ⭐ 1,316 | 🐛 62 | 🌐 HCL | 📅 2025-07-13 - TerraGoat is Bridgecrew's "Vulnerable by Design" Terraform repository.
-* [AzureGoat](https://github.com/ine-labs/AzureGoat) ⭐ 970 | 🐛 6 | 🌐 Python | 📅 2024-10-30 - A Damn Vulnerable Azure Infrastructure
+* [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) ⭐ 5,937 | 🐛 27 | 🌐 HTML | 📅 2026-04-16 - Kubernetes Goat is "Vulnerable by Design" Kubernetes Cluster. Designed to be an intentionally vulnerable cluster environment to learn and practice Kubernetes security.
+* [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) ⭐ 3,777 | 🐛 20 | 🌐 Python | 📅 2026-10-14 - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
+* [AWSGoat](https://github.com/ine-labs/AWSGoat) ⭐ 2,059 | 🐛 9 | 🌐 PHP | 📅 2026-11-04 - A Damn Vulnerable AWS Infrastructure
+* [TerraGoat - Vulnerable Terraform Infra](https://github.com/bridgecrewio/terragoat) ⭐ 1,318 | 🐛 62 | 🌐 HCL | 📅 2025-07-13 - TerraGoat is Bridgecrew's "Vulnerable by Design" Terraform repository.
+* [AzureGoat](https://github.com/ine-labs/AzureGoat) ⭐ 969 | 🐛 6 | 🌐 Python | 📅 2024-10-30 - A Damn Vulnerable Azure Infrastructure
 * [Sadcloud](https://github.com/nccgroup/sadcloud) ⭐ 796 | 🐛 9 | 🌐 HCL | 📅 2023-10-14 - A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure
-* [IAM Vulnerable](https://github.com/BishopFox/iam-vulnerable) ⭐ 598 | 🐛 0 | 🌐 HCL | 📅 2026-03-12 - Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground.
+* [IAM Vulnerable](https://github.com/BishopFox/iam-vulnerable) ⭐ 597 | 🐛 0 | 🌐 HCL | 📅 2026-03-12 - Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground.
 * [CNAPPgoat](https://github.com/tenable/cnappgoat) ⭐ 302 | 🐛 4 | 🌐 Go | 📅 2024-09-04 - CNAPPgoat is a multi-cloud, vulnerable-by-design environment deployment tool.
 * [caponeme - Capital One Breach](https://github.com/avishayil/caponeme) ⭐ 245 | 🐛 0 | 🌐 Python | 📅 2026-08-18 - Repository demonstrating the Capital One breach on your AWS account
 * [Cfngoat - Vulnerable Cloudformation Template](https://github.com/bridgecrewio/cfngoat) ⭐ 103 | 🐛 11 | 📅 2024-08-05 - Cfngoat is Bridgecrew's "Vulnerable by Design" Cloudformation repository.
-* [Unguard](https://github.com/dynatrace-oss/unguard) ⭐ 75 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-23 - An insecure cloud-native microservices demo application for Kubernetes
+* [Unguard](https://github.com/dynatrace-oss/unguard) ⭐ 75 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-05 - An insecure cloud-native microservices demo application for Kubernetes
 * [CdkGoat - Vulnerable AWS CDK Infra](https://github.com/bridgecrewio/cdkgoat) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2023-05-09 - CdkGoat is Bridgecrew's "Vulnerable by Design" AWS CDK repository.
 * [WrongSecrets](https://github.com/commjoen/wrongsecrets) ⭐ 0 | 🐛 0 | 📅 2026-04-18 - WrongSecrets is "Vulnerable by Design" to show how to not handle secrets in Docker, Kubernetes and in the cloud (AWS/GCP/Azure).
 * [Vulnerable Cloud Lab](https://github.com/anpa1200/vulnerable-cloud-lab) ⭐ 0 | 🐛 0 | 🌐 Shell | 📅 2026-06-18 - Intentionally vulnerable GCP and AWS infrastructure deployed with Terraform for authorized cloud security training.
@@ -81,37 +81,37 @@ Paid tranining courses
 
 ## Mobile Security
 
-* [InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2) ⭐ 1,486 | 🐛 17 | 🌐 Java | 📅 2024-04-17 - Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities.
+* [InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2) ⭐ 1,489 | 🐛 17 | 🌐 Java | 📅 2024-04-17 - Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities.
 * [DIVA Android](https://github.com/payatu/diva-android) ⭐ 1,162 | 🐛 13 | 🌐 Java | 📅 2023-05-19 - Damn Insecure and vulnerable App for Android.
 * [Damn Vulnerable Bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank) ⭐ 767 | 🐛 4 | 🌐 Java | 📅 2023-12-13 -  Damn Vulnerable Bank is designed to be an intentionally vulnerable android application.
 * [OVAA](https://github.com/oversecured/ovaa) ⭐ 766 | 🐛 1 | 🌐 Java | 📅 2026-10-06 - Oversecured Vulnerable Android App.
 * [InjuredAndroid](https://github.com/B3nac/InjuredAndroid) ⚠️ Archived - A vulnerable Android application that shows simple examples of vulnerabilities in a ctf style.
-* [Allsafe - Android](https://github.com/t0thkr1s/allsafe-android) ⭐ 446 | 🐛 2 | 🌐 Java | 📅 2025-09-20 - An intentionally vulnerable Android application for learning Android application security.
-* [AndroGoat](https://github.com/satishpatnayak/AndroGoat) ⭐ 411 | 🐛 2 | 🌐 Kotlin | 📅 2025-11-22 - AndroGoat is purposely developed open source vulnerable/insecure app using Kotlin.
+* [Allsafe - Android](https://github.com/t0thkr1s/allsafe-android) ⭐ 445 | 🐛 2 | 🌐 Java | 📅 2025-09-20 - An intentionally vulnerable Android application for learning Android application security.
+* [AndroGoat](https://github.com/satishpatnayak/AndroGoat) ⭐ 412 | 🐛 2 | 🌐 Kotlin | 📅 2025-11-22 - AndroGoat is purposely developed open source vulnerable/insecure app using Kotlin.
 * [InsecureShop](https://github.com/optiv/InsecureShop) ⚠️ Archived - An Intentionally designed Vulnerable Android Application built in Kotlin.
 * [Vulnerable Kext](https://github.com/ant4g0nist/Vulnerable-Kext) ⚠️ Archived - A WIP "Vulnerable by Design" kext for iOS/macOS to play & learn \*OS kernel exploitation.
-* [Android Security Testing](https://github.com/RavikumarRamesh/hpAndro1337) ⭐ 104 | 🐛 6 | 📅 2023-12-26 - hpAndro1337 Application made in Kotlin with multiple vulnerabilities and a CTF.
-* [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid) ⭐ 69 | 🐛 1 | 🌐 Java | 📅 2021-09-18 - Android Application covering various static and dynamic vulnerabilities.
+* [Android Security Testing](https://github.com/RavikumarRamesh/hpAndro1337) ⭐ 103 | 🐛 6 | 📅 2023-12-26 - hpAndro1337 Application made in Kotlin with multiple vulnerabilities and a CTF.
+* [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid) ⭐ 68 | 🐛 1 | 🌐 Java | 📅 2021-09-18 - Android Application covering various static and dynamic vulnerabilities.
 * [DVMA](https://github.com/cpeoples/dvma) ⭐ 8 | 🐛 0 | 🌐 Dart | 📅 2026-11-04 - Damn Vulnerable Mobile App, an intentionally vulnerable Flutter app for Android and iOS.
 * [VulnLab APK](https://github.com/anpa1200/Vulnerable-APK) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-06-18 - Intentionally vulnerable Android app covering OWASP Mobile Top 10 classes with exploit commands and screenshots.
 
 ## OWASP Top 10
 
-* [Owasp Juice shop](https://github.com/juice-shop/juice-shop) ⭐ 14,360 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-04 - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-* [DVWA](https://github.com/digininja/DVWA) ⭐ 13,972 | 🐛 8 | 🌐 PHP | 📅 2026-10-18 - Damn Vulnerable Web Application (DVWA)
-* [WebGoat](https://github.com/WebGoat/WebGoat) ⭐ 9,460 | 🐛 38 | 🌐 JavaScript | 📅 2026-11-02 - WebGoat is a deliberately insecure application by OWASP for training purpose
+* [Owasp Juice shop](https://github.com/juice-shop/juice-shop) ⭐ 14,375 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-04 - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
+* [DVWA](https://github.com/digininja/DVWA) ⭐ 13,982 | 🐛 8 | 🌐 PHP | 📅 2026-10-18 - Damn Vulnerable Web Application (DVWA)
+* [WebGoat](https://github.com/WebGoat/WebGoat) ⭐ 9,462 | 🐛 38 | 🌐 JavaScript | 📅 2026-11-02 - WebGoat is a deliberately insecure application by OWASP for training purpose
 * [Xtreme Vulnerable Web Application](https://github.com/s4n7h0/xvwa) ⚠️ Archived - XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.
-* [crApi](https://github.com/OWASP/crAPI) ⭐ 1,629 | 🐛 36 | 🌐 Java | 📅 2026-09-09 - completely ridiculous API: crAPI will help you to understand the ten most critical API security risks. crAPI is vulnerable by design, but you'll be able to safely run it to educate/train yourself.
-* [OWASP Mutillidae II](https://github.com/webpwnized/mutillidae) ⭐ 1,535 | 🐛 1 | 🌐 PHP | 📅 2026-09-24 - OWASP Mutillidae II is a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiast.
+* [crApi](https://github.com/OWASP/crAPI) ⭐ 1,628 | 🐛 36 | 🌐 Java | 📅 2026-09-09 - completely ridiculous API: crAPI will help you to understand the ten most critical API security risks. crAPI is vulnerable by design, but you'll be able to safely run it to educate/train yourself.
+* [OWASP Mutillidae II](https://github.com/webpwnized/mutillidae) ⭐ 1,536 | 🐛 1 | 🌐 PHP | 📅 2026-09-24 - OWASP Mutillidae II is a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiast.
 * [OWASP Security Shepherd](https://github.com/OWASP/SecurityShepherd) ⭐ 1,467 | 🐛 200 | 🌐 Java | 📅 2026-11-04 - A web and mobile application security training platform for learning and practicing penetration testing skills.
-* [VAmPI](https://github.com/erev0s/VAmPI) ⭐ 1,346 | 🐛 5 | 🌐 Python | 📅 2026-04-07 - Vulnerable REST API with OWASP top 10 vulnerabilities for security testing
+* [VAmPI](https://github.com/erev0s/VAmPI) ⭐ 1,347 | 🐛 5 | 🌐 Python | 📅 2026-04-07 - Vulnerable REST API with OWASP top 10 vulnerabilities for security testing
 * [DSVW](https://github.com/stamparm/DSVW) ⭐ 884 | 🐛 1 | 🌐 Python | 📅 2026-08-19 - Damn Small Vulnerable Web
-* [VulnLab](https://github.com/Yavuzlar/VulnLab) ⭐ 528 | 🐛 5 | 🌐 CSS | 📅 2025-02-02 - A vulnerable web application lab using Docker
-* [Owasp VulnerableApp](https://github.com/SasanLabs/VulnerableApp) ⭐ 481 | 🐛 114 | 🌐 Java | 📅 2026-11-05 - A modular deliberately vulnerable application designed primarily for validating and benchmarking security scanners through reproducible test scenarios, while also supporting learning and experimentation.
+* [VulnLab](https://github.com/Yavuzlar/VulnLab) ⭐ 527 | 🐛 5 | 🌐 CSS | 📅 2025-02-02 - A vulnerable web application lab using Docker
+* [Owasp VulnerableApp](https://github.com/SasanLabs/VulnerableApp) ⭐ 482 | 🐛 113 | 🌐 Java | 📅 2026-11-06 - A modular deliberately vulnerable application designed primarily for validating and benchmarking security scanners through reproducible test scenarios, while also supporting learning and experimentation.
 * [Pentest\_lab](https://github.com/oliverwiegers/pentest_lab) ⭐ 225 | 🐛 0 | 🌐 Shell | 📅 2025-06-17 - Local penetration testing lab using docker-compose.
 * [bWAPP](https://github.com/raesene/bWAPP) ⚠️ Archived - This is just an instance of the OWASP bWAPP project as a docker container.
 * [lazyweb](https://github.com/RamadhanAmizudin/lazyweb) ⭐ 131 | 🐛 0 | 🌐 PHP | 📅 2026-09-18 - This web application is a demonstration of common server-side application flaws. Each of the vulnerabilities has its own difficulty rating.
-* [OSS – OopsSec Store](https://github.com/kOaDT/oss-oopssec-store) ⭐ 54 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-02 - An intentionally vulnerable e-commerce application built with Next.js and React. A self-hosted CTF platform for web security training covering OWASP Top 10 vulnerabilities.
+* [OSS – OopsSec Store](https://github.com/kOaDT/oss-oopssec-store) ⭐ 56 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-02 - An intentionally vulnerable e-commerce application built with Next.js and React. A self-hosted CTF platform for web security training covering OWASP Top 10 vulnerabilities.
 
 ### SQL Injection
 
@@ -126,21 +126,21 @@ Paid tranining courses
 
 ### Server Side Request Forgery
 
-* [SSRF\_Vulnerable\_Lab](https://github.com/incredibleindishell/SSRF_Vulnerable_Lab) ⭐ 799 | 🐛 4 | 🌐 PHP | 📅 2023-08-21 - This Lab contain the sample codes which are vulnerable to Server-Side Request Forgery attack
+* [SSRF\_Vulnerable\_Lab](https://github.com/incredibleindishell/SSRF_Vulnerable_Lab) ⭐ 800 | 🐛 4 | 🌐 PHP | 📅 2023-08-21 - This Lab contain the sample codes which are vulnerable to Server-Side Request Forgery attack
 
 ### CORS Misconfiguration
 
 * [CORS-vulnerable-Lab](https://github.com/incredibleindishell/CORS-vulnerable-Lab) ⭐ 187 | 🐛 3 | 🌐 PHP | 📅 2021-03-14 - Sample vulnerable code and its exploit code
-* [CORS misconfiguration vulnerable Lab](https://github.com/incredibleindishell/CORS_vulnerable_Lab-Without_Database) ⭐ 66 | 🐛 0 | 🌐 PHP | 📅 2021-08-25 - This Repository contains CORS misconfiguration related vulnerable codes.
+* [CORS misconfiguration vulnerable Lab](https://github.com/incredibleindishell/CORS_vulnerable_Lab-Without_Database) ⭐ 64 | 🐛 0 | 🌐 PHP | 📅 2021-08-25 - This Repository contains CORS misconfiguration related vulnerable codes.
 
 ### XXE Injection
 
-* [XXE Lab](https://github.com/jbarone/xxelab) ⭐ 230 | 🐛 1 | 🌐 HTML | 📅 2021-11-10 - A simple web app with a XXE vulnerability.
+* [XXE Lab](https://github.com/jbarone/xxelab) ⭐ 231 | 🐛 1 | 🌐 HTML | 📅 2021-11-10 - A simple web app with a XXE vulnerability.
 * [docker-java-xxe](https://github.com/pimps/docker-java-xxe) ⭐ 5 | 🐛 0 | 🌐 Smarty | 📅 2018-11-10 - Docker image to test XXE attacks in java with tomcat.
 
 ### Request Smuggling
 
-* [Varnish HTTP/2 Request Smuggling](https://github.com/detectify/Varnish-H2-Request-Smuggling) ⭐ 56 | 🐛 0 | 🌐 VCL | 📅 2021-08-26 - This repository a docker-compose file to setup a local environment that is vulnerable to CVE-2021-36740 Varnish HTTP/2 request smuggling.
+* [Varnish HTTP/2 Request Smuggling](https://github.com/detectify/Varnish-H2-Request-Smuggling) ⭐ 55 | 🐛 0 | 🌐 VCL | 📅 2021-08-26 - This repository a docker-compose file to setup a local environment that is vulnerable to CVE-2021-36740 Varnish HTTP/2 request smuggling.
 
 ## Technologies
 
@@ -162,18 +162,18 @@ Paid tranining courses
 
 ### Firmware
 
-* [OWASP IoT Goat](https://github.com/OWASP/IoTGoat) ⭐ 963 | 🐛 2 | 🌐 C | 📅 2025-10-05 - IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.
+* [OWASP IoT Goat](https://github.com/OWASP/IoTGoat) ⭐ 964 | 🐛 2 | 🌐 C | 📅 2025-10-05 - IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.
 * [DVRF](https://github.com/praetorian-code/DVRF) ⚠️ Archived - The Damn Vulnerable Router Firmware Project
-* [DVID](https://github.com/Vulcainreo/DVID) ⭐ 227 | 🐛 3 | 🌐 C | 📅 2024-02-12 -  Damn Vulnerable IoT Device
+* [DVID](https://github.com/Vulcainreo/DVID) ⭐ 228 | 🐛 3 | 🌐 C | 📅 2024-02-12 -  Damn Vulnerable IoT Device
 
 ## Uncategorized
 
-* [Vulhub](https://github.com/vulhub/vulhub) ⭐ 21,451 | 🐛 55 | 🌐 Dockerfile | 📅 2026-10-17 - Vulhub is an open-source collection of pre-built vulnerable docker environments.
-* [CI/CD Goat](https://github.com/cider-security-research/cicd-goat) ⭐ 2,333 | 🐛 0 | 🌐 Python | 📅 2024-07-14 - Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, catch the flags.
-* [Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) ⭐ 1,721 | 🐛 3 | 🌐 JavaScript | 📅 2025-05-24 - Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.
+* [Vulhub](https://github.com/vulhub/vulhub) ⭐ 21,454 | 🐛 56 | 🌐 Dockerfile | 📅 2026-10-17 - Vulhub is an open-source collection of pre-built vulnerable docker environments.
+* [CI/CD Goat](https://github.com/cider-security-research/cicd-goat) ⭐ 2,334 | 🐛 0 | 🌐 Python | 📅 2024-07-14 - Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, catch the flags.
+* [Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) ⭐ 1,720 | 🐛 3 | 🌐 JavaScript | 📅 2025-05-24 - Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.
 * [Damn Vulnerable Model Context Protocol (DVMCP)](https://github.com/harishsg993010/damn-vulnerable-MCP-server) ⭐ 1,365 | 🐛 23 | 🌐 Python | 📅 2026-11-01 - An intentionally vulnerable MCP implementation with 10 challenges for learning MCP security, including prompt injection, tool poisoning, and token theft.
 * [Vulnserver](https://github.com/stephenbradshaw/vulnserver) ⭐ 1,143 | 🐛 1 | 🌐 C | 📅 2020-10-09 - Vulnerable server used for learning software exploitation
-* [Damn Vulnerable RESTaurant](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game) ⭐ 945 | 🐛 0 | 🌐 Python | 📅 2026-07-09 - Intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.
+* [Damn Vulnerable RESTaurant](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game) ⭐ 946 | 🐛 0 | 🌐 Python | 📅 2026-07-09 - Intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.
 * [OWASP-VWAD](https://github.com/OWASP/OWASP-VWAD) ⭐ 879 | 🐛 1 | 📅 2026-09-24 - The OWASP Vulnerable Web Applications Directory project (VWAD) is a comprehensive and well maintained registry of all known vulnerable web applications currently available.
 * [GitHub Actions Goat](https://github.com/step-security/github-actions-goat) ⭐ 523 | 🐛 21 | 🌐 JavaScript | 📅 2026-10-30 - Deliberately Vulnerable GitHub Actions CI/CD Environment
 * [OWASP SKF labs](https://github.com/blabla1337/skf-labs) ⭐ 466 | 🐛 29 | 🌐 Python | 📅 2024-08-02 - Repo for all the OWASP-SKF Docker lab examples
@@ -203,4 +203,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
