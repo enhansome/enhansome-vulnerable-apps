@@ -46,7 +46,7 @@
             "open_issues": 74,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5792,
+            "stars": 5793,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -110,11 +110,11 @@
             "id": 141209050,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-14T20:57:46Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-19T15:16:01Z",
+            "open_issues": 18,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3790,
+            "stars": 3793,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -135,7 +135,7 @@
             "open_issues": 9,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2064,
+            "stars": 2065,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -156,7 +156,7 @@
             "open_issues": 62,
             "owner": "bridgecrewio",
             "repo": "terragoat",
-            "stars": 1326,
+            "stars": 1325,
             "topics": [
               "aws-security",
               "azure-security",
@@ -206,7 +206,7 @@
             "open_issues": 9,
             "owner": "nccgroup",
             "repo": "sadcloud",
-            "stars": 800,
+            "stars": 799,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -248,7 +248,7 @@
             "open_issues": 4,
             "owner": "tenable",
             "repo": "cnappgoat",
-            "stars": 303,
+            "stars": 302,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -427,7 +427,7 @@
             "open_issues": 17,
             "owner": "dineshshetty",
             "repo": "Android-InsecureBankv2",
-            "stars": 1488,
+            "stars": 1487,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -448,7 +448,7 @@
             "open_issues": 13,
             "owner": "payatu",
             "repo": "diva-android",
-            "stars": 1171,
+            "stars": 1170,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -469,7 +469,7 @@
             "open_issues": 4,
             "owner": "rewanthtammana",
             "repo": "Damn-Vulnerable-Bank",
-            "stars": 769,
+            "stars": 768,
             "topics": [
               "android",
               "android-security",
@@ -529,7 +529,7 @@
             "open_issues": 0,
             "owner": "B3nac",
             "repo": "InjuredAndroid",
-            "stars": 759,
+            "stars": 758,
             "topics": [
               "android",
               "android-security",
@@ -799,11 +799,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T08:12:18Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-20T07:50:18Z",
+            "open_issues": 4,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14484,
+            "stars": 14494,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -839,7 +839,7 @@
             "open_issues": 5,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 14057,
+            "stars": 14060,
             "topics": [
               "dvwa",
               "hacking",
@@ -889,7 +889,7 @@
             "open_issues": 6,
             "owner": "s4n7h0",
             "repo": "xvwa",
-            "stars": 1762,
+            "stars": 1761,
             "topics": [
               "application-security",
               "knowledge",
@@ -944,7 +944,7 @@
             "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1536,
+            "stars": 1535,
             "topics": [
               "10",
               "application",
@@ -973,11 +973,11 @@
             "id": 14259857,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-18T22:10:11Z",
-            "open_issues": 190,
+            "last_commit": "2026-11-20T14:02:56Z",
+            "open_issues": 191,
             "owner": "OWASP",
             "repo": "SecurityShepherd",
-            "stars": 1470,
+            "stars": 1468,
             "topics": []
           },
           "first_seen": "2026-10-15T10:03:36.096Z"
@@ -1065,11 +1065,11 @@
             "id": 206928287,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T11:25:26Z",
-            "open_issues": 117,
+            "last_commit": "2026-11-20T11:14:36Z",
+            "open_issues": 120,
             "owner": "SasanLabs",
             "repo": "VulnerableApp",
-            "stars": 483,
+            "stars": 482,
             "topics": [
               "appsec",
               "benchmark",
@@ -1336,7 +1336,7 @@
                 "open_issues": 4,
                 "owner": "incredibleindishell",
                 "repo": "SSRF_Vulnerable_Lab",
-                "stars": 799,
+                "stars": 798,
                 "topics": [
                   "attack",
                   "exploitation",
@@ -1562,7 +1562,7 @@
                 "language": "HTML",
                 "license": "Apache-2.0",
                 "last_commit": "2024-06-15T01:20:40Z",
-                "open_issues": 118,
+                "open_issues": 117,
                 "owner": "OWASP",
                 "repo": "NodeGoat",
                 "stars": 2083,
@@ -1595,7 +1595,7 @@
                 "open_issues": 16,
                 "owner": "appsecco",
                 "repo": "dvna",
-                "stars": 783,
+                "stars": 782,
                 "topics": [
                   "dvna",
                   "hack",
@@ -1696,7 +1696,7 @@
                 "open_issues": 2,
                 "owner": "OWASP",
                 "repo": "IoTGoat",
-                "stars": 967,
+                "stars": 966,
                 "topics": [
                   "embedded-linux",
                   "firmware",
@@ -1806,7 +1806,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2340,
+            "stars": 2339,
             "topics": [
               "appsec",
               "cicd",
@@ -1837,7 +1837,7 @@
             "open_issues": 3,
             "owner": "dolevf",
             "repo": "Damn-Vulnerable-GraphQL-Application",
-            "stars": 1721,
+            "stars": 1720,
             "topics": [
               "damn-vulnerable",
               "damn-vulnerable-web-application",
@@ -1888,7 +1888,7 @@
             "open_issues": 1,
             "owner": "stephenbradshaw",
             "repo": "vulnserver",
-            "stars": 1147,
+            "stars": 1146,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -1909,7 +1909,7 @@
             "open_issues": 0,
             "owner": "theowni",
             "repo": "Damn-Vulnerable-RESTaurant-API-Game",
-            "stars": 948,
+            "stars": 947,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -1957,7 +1957,7 @@
             "open_issues": 21,
             "owner": "step-security",
             "repo": "github-actions-goat",
-            "stars": 528,
+            "stars": 527,
             "topics": [
               "actions",
               "attack-simulation",
@@ -1985,7 +1985,7 @@
             "open_issues": 29,
             "owner": "blabla1337",
             "repo": "skf-labs",
-            "stars": 467,
+            "stars": 466,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:14.339Z"
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T14:30:59.042Z",
+    "last_updated": "2026-11-20T14:08:37.390Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulnerable Applications",
@@ -2311,7 +2311,7 @@
       "open_issues": 2,
       "owner": "vavkamil",
       "repo": "awesome-vulnerable-apps",
-      "stars": 1512,
+      "stars": 1511,
       "topics": [
         "awesome",
         "awesome-list",
